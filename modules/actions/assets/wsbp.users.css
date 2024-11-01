@@ -1,0 +1,90 @@
+.pull-right {
+  float: right;
+}
+.dataTables_processing {
+	top: 120px !important;
+}
+.wsbp-form-row {
+	display: flex;
+	margin-bottom: 5px;
+}
+.wsbp-form-label {
+	width: 20%;
+	width-min: 120px;
+}
+#wsbpUsersWidget[data-new-user="0"] button.wsbp-add-new-user {
+	display: none!important;
+}
+.wsbp-hidden {
+	display: none!important;
+}
+.wsbp-user-blocked, .wsbp-user-refused {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 0 10px;
+    border: 1px solid #ff653f;
+    color: #ff653f;
+}
+.wsbp-user-popup {
+  padding: 20px;
+  font-size: 14px;
+}
+.wsbp-input-group, .wsbp-label-name {
+	margin: 10px 15px; 
+}
+.wsbp-label-name {
+	font-size: 16px;
+	font-weight: bold;
+}
+.wsbp-input-group > input, .wsbp-input-group > select, .wsbp-input-group > button {
+	width: 100%;
+	display: block;
+	max-width: 100%;
+	margin: 0;
+}
+.wsbp-input-group > label {
+	margin-bottom: 2px;
+	display: inline-block;
+}
+.wsbp-input-group textarea {
+	width: 100%;
+	height: 100px;
+}
+
+.wsbp-input-group .wupsales-color-picker {
+	margin-bottom: 2px; 
+}
+.wsbp-input-row {
+	display: flex;
+	margin: 10px 0;
+}
+.wsbp-input-row .wsbp-input-group {
+	width: 50%;
+	margin: 0 15px;
+}
+.wsbp-button-row {
+	margin-top: 20px;
+}
+.wsbp-list-actions.wsbp-user-active i {
+	cursor: pointer;
+}
+.wsbp-list-actions.wsbp-user-noactive i.wsbp-add {
+	cursor: no-drop;
+}
+.wsbp-list-actions.wsbp-user-active i.wsbp-add {
+	color: #32cd32;
+}
+.wsbp-list-actions.wsbp-user-active i.wsbp-edit {
+	color: #3F51B5;
+}
+#wsbpDialogAddUser {
+	max-height: 400px;
+	overflow: auto;
+}
+.wsbp-widget-popup.wsbp-user-popup {
+	/*min-width: 95% !important;*/
+	max-width: 95% !important;
+}
+.wsbp-hidden {
+	display: none !important;
+}

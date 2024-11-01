@@ -1,0 +1,1402 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WupSales - Reward Points for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-20 07:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wupsales-reward-points"
+
+#: classes/modInstaller.php:85
+msgid " directory 755 or 777"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:118
+msgid "Abbreviated"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:276
+msgid "Account Details"
+msgstr ""
+
+#: classes/tables/actions.php:11
+msgid "Action Date"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:111
+msgid "Action date"
+msgstr ""
+
+#: modules/actions/controller.php:117
+msgid "Action deleted"
+msgstr ""
+
+#: modules/actions/models/actions.php:118
+msgid "Action not found"
+msgstr ""
+
+#: classes/tables/transactions.php:14
+msgid "Action/Order Id"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:71 
+#: modules/actions/views/tpl/actionsTabHistory.php:22
+msgid "Actions"
+msgstr ""
+
+#: classes/tables/modules.php:9 modules/actions/models/actions.php:15 
+#: modules/actions/models/users.php:11 
+#: modules/bonuses/models/transactions.php:23
+msgid "Active"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:95
+msgid "add"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:54
+msgid "Add filter"
+msgstr ""
+
+#: modules/actions/models/users.php:355
+msgid "Add point"
+msgstr ""
+
+#: modules/actions/views/actions.php:51 
+#: modules/actions/views/tpl/actionsTabUsers.php:89
+msgid "Add points"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:144 
+#: modules/actions/views/tpl/actionsTabUsers.php:171
+msgid "Add reward points block"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:148 
+#: modules/actions/views/tpl/actionsTabUsers.php:175
+msgid "Add shop button"
+msgstr ""
+
+#: modules/actions/mod.php:98 modules/actions/views/tpl/actionsTabUsers.php:220
+msgid "Age"
+msgstr ""
+
+#: modules/actions/views/actions.php:57 modules/bonuses/views/bonuses.php:165
+msgid "All"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:157
+msgid ""
+"All scheduled emails are sent once per hour. Determine how many emails to "
+"send at one time"
+msgstr ""
+
+#: modules/adminmenu/mod.php:48
+msgid "All Tables"
+msgstr ""
+
+#: modules/actions/models/actions.php:345
+msgid "All users"
+msgstr ""
+
+#: modules/bonuses/mod.php:326 modules/bonuses/views/tpl/analyticsAdmin.php:7
+msgid "Analytics"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:6
+msgid "AND"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:25
+msgid "Apply"
+msgstr ""
+
+#: modules/actions/models/users.php:325
+msgid "Are you sure to block this user?"
+msgstr ""
+
+#: modules/actions/models/actions.php:238
+msgid "Are you sure to delete this action?"
+msgstr ""
+
+#: modules/actions/models/users.php:326
+msgid "Are you sure to unlock this user?"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:164
+msgid "Are you sure want to remove product's points?"
+msgstr ""
+
+#: modules/options/views/options.php:27
+msgid "Are you sure want to reset rules page?"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:326
+msgid "Attributes"
+msgstr ""
+
+#: modules/actions/models/actions.php:10 
+#: modules/bonuses/models/transactions.php:17
+msgid "Auto"
+msgstr ""
+
+#: modules/actions/views/tpl/autoactionsAdmin.php:7
+msgid "Auto Actions"
+msgstr ""
+
+#: modules/actions/mod.php:58
+msgid "AutoActions"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:26
+msgid "available for payments"
+msgstr ""
+
+#: classes/tables/users.php:9
+msgid "Birthday"
+msgstr ""
+
+#: classes/tables/users.php:10
+msgid "Birthday m-d"
+msgstr ""
+
+#: modules/actions/models/users.php:12 modules/actions/models/users.php:351
+msgid "Blocked"
+msgstr ""
+
+#: modules/actions/mod.php:106
+msgid "Bought brands"
+msgstr ""
+
+#: modules/actions/mod.php:103
+msgid "Bought in categories"
+msgstr ""
+
+#: modules/actions/mod.php:107
+msgid "Bought products"
+msgstr ""
+
+#: modules/actions/mod.php:104
+msgid "Bought with attributes"
+msgstr ""
+
+#: modules/actions/mod.php:105
+msgid "Bought with tags"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:367
+msgid "Brands"
+msgstr ""
+
+#: classes/tables/products.php:15 classes/tables/users.php:17
+msgid "Calculated"
+msgstr ""
+
+#: modules/actions/models/actions.php:238 modules/actions/models/users.php:325 
+#: modules/actions/models/users.php:326 modules/actions/views/actions.php:55 
+#: modules/bonuses/views/bonuses.php:163 modules/bonuses/views/bonuses.php:167
+msgid "Cancel"
+msgstr ""
+
+#: modules/options/mod.php:83
+msgid "Cart"
+msgstr ""
+
+#: classes/tables/users.php:13
+msgid "Cart coupon"
+msgstr ""
+
+#: modules/bonuses/models/details.php:12
+msgid "Cart fix"
+msgstr ""
+
+#: modules/bonuses/models/details.php:10
+msgid "Cart reward"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:304
+msgid "Categories"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:170
+msgid "Choose Groups to delete"
+msgstr ""
+
+#: classes/html.php:381
+msgid "Choose Icon"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:169
+msgid "Choose Products to clear points"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:168
+msgid "Choose Products to set points"
+msgstr ""
+
+#: modules/actions/views/actions.php:59
+msgid "Choose Users to delete points"
+msgstr ""
+
+#: modules/actions/views/actions.php:58
+msgid "Choose Users to set points"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:162
+msgid "Clear points"
+msgstr ""
+
+#: classes/tables/modules.php:11
+msgid "Code"
+msgstr ""
+
+#: modules/actions/models/actions.php:14 
+#: modules/bonuses/models/transactions.php:27
+msgid "Completed"
+msgstr ""
+
+#: classes/tables/actions.php:19
+msgid "Conditions"
+msgstr ""
+
+#: modules/actions/models/actions.php:238 modules/actions/models/users.php:325 
+#: modules/actions/models/users.php:326
+msgid "Confirm"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:91
+msgid "Congratulations! You are reward program participant."
+msgstr ""
+
+#. %s: plugin name
+#: modules/adminmenu/mod.php:18
+#, php-format
+msgid ""
+"Cool WordPress plugins from woobewoo.com developers. I tried %s - and this "
+"was what I need! #woobewoo.com"
+msgstr ""
+
+#: modules/adminmenu/mod.php:99
+msgid ""
+"Could you please do me a BIG favor and give it a 5-star rating on WordPress? "
+"Just to help us spread the word and boost our motivation."
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:101
+msgid "Count"
+msgstr ""
+
+#: modules/actions/mod.php:100 
+#: modules/actions/views/tpl/actionsTabUsers.php:252
+msgid "Count of purchases"
+msgstr ""
+
+#: classes/tables/actions.php:15
+msgid "Count users"
+msgstr ""
+
+#: classes/tables/details.php:15
+msgid "Current options"
+msgstr ""
+
+#: classes/model.php:177 classes/model.php:194
+msgid "Database error detected"
+msgstr ""
+
+#: classes/table.php:321 classes/table.php:377
+msgid "Database error. Please contact your developer."
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabHistory.php:16 
+#: modules/bonuses/views/tpl/widgetPopup.php:65
+msgid "Date"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:226
+msgid "Date format"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:79
+msgid "Date of birth"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:202
+msgid "days per purchase"
+msgstr ""
+
+#: classes/html.php:394
+msgid "Default"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:129
+msgid ""
+"Defines the preferred way to enter points for assigning a reward: the exact "
+"amount, or a percentage of the cost of the product"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:95
+msgid "delete"
+msgstr ""
+
+#: modules/actions/models/users.php:356
+msgid "Delete point"
+msgstr ""
+
+#: modules/actions/views/actions.php:52
+msgid "Delete points"
+msgstr ""
+
+#: modules/actions/models/actions.php:17 
+#: modules/bonuses/models/transactions.php:30
+msgid "Deleted"
+msgstr ""
+
+#: modules/options/mod.php:76
+msgid "Design"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:19
+msgid "Discount"
+msgstr ""
+
+#: classes/tables/details.php:9
+msgid "Discount/Product/Cart"
+msgstr ""
+
+#: modules/bonuses_widget/mod.php:18
+msgid "Displays User Rewards"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:320
+msgid "Do not take rewards (and not return reward discount)"
+msgstr ""
+
+#: classes/controller.php:184 classes/controller.php:193 
+#: modules/options/controller.php:6 modules/options/controller.php:22 
+#: modules/options/controller.php:31 modules/actions/controller.php:83 
+#: modules/actions/controller.php:152 modules/actions/controller.php:166 
+#: modules/bonuses/controller.php:72
+msgid "Done"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:216
+msgid "Each point has its own expiration date"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:53
+msgid "Edit"
+msgstr ""
+
+#: modules/actions/models/actions.php:351
+msgid "Edit action"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:69
+msgid "Email"
+msgstr ""
+
+#: modules/options/models/options.php:88
+msgid "Empty data to save option"
+msgstr ""
+
+#: classes/model.php:218
+msgid "Empty or invalid ID"
+msgstr ""
+
+#: classes/tables/actions.php:12
+msgid "End Action Date"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:9
+msgid "Enter discount"
+msgstr ""
+
+#: modules/adminmenu/views/tpl/adminNavPage.php:48
+msgid "Enter product filter name"
+msgstr ""
+
+#: classes/modInstaller.php:156
+msgid "Error Activate module"
+msgstr ""
+
+#: classes/modInstaller.php:209
+msgid "Error Activating module"
+msgstr ""
+
+#: modules/actions/models/actions.php:485
+msgid "Error by sending email"
+msgstr ""
+
+#: classes/modInstaller.php:186
+msgid "Error Deactivation module"
+msgstr ""
+
+#: modules/adminmenu/models/modules.php:50
+msgid "Error module ID"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:297
+msgid "Exclude sales items"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:25
+msgid "Expired"
+msgstr ""
+
+#: classes/tables/actions.php:13 classes/tables/actions.php:14 
+#: classes/tables/transactions.php:13
+msgid "Expired Date"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:187 
+#: modules/actions/views/tpl/actionsTabUsers.php:124
+msgid "Expiry date"
+msgstr ""
+
+#: classes/tables/modules.php:12
+msgid "External plugin directory"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:37
+msgid "Filter"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:29
+msgid "Filter logic"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:44
+msgid "Filter type"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:20
+msgid "Fixes"
+msgstr ""
+
+#: modules/actions/views/actions.php:53
+msgid "For all filtered"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:38
+msgid "for purchases"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:28
+msgid ""
+"For the correct and fast operation of product filters and calculation user "
+"rewards, the plugin create the corresponding meta-parameters. These "
+"parameters are automatically updated by editing/creating products and plugin "
+"settings. But if you've edited the products with third-party plugins or "
+"methods and/or noticed that the plugin doesn't work correctly, then click "
+"button Run to force a refresh of the products settings. If you have many "
+"products, the process may take some time."
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:80
+msgid ""
+"For the correct and fast operation of user filters and calculation of the "
+"user level, the plugin create the corresponding meta-parameters. These "
+"parameters are automatically updated by editing/creating orders. But if "
+"you've edited the orders with third-party plugins or methods and/or noticed "
+"that the plugin doesn't work correctly, then click this button to force a "
+"refresh of the user's settings. If you have many users, the process may take "
+"some time."
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:38
+msgid "for the reason"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:60
+msgid "General"
+msgstr ""
+
+#: modules/options/views/tpl/optionsProFeature.php:4 
+#: modules/actions/views/tpl/actionsProFeature.php:4 
+#: modules/bonuses/views/tpl/bonusesProFeature.php:4
+msgid "Get Pro"
+msgstr ""
+
+#: modules/adminmenu/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr ""
+
+#: classes/tables/products.php:13
+msgid "Group Reward Points"
+msgstr ""
+
+#: modules/bonuses/mod.php:351
+msgid "Groups"
+msgstr ""
+
+#. %s: label
+#: modules/adminmenu/mod.php:98
+#, php-format
+msgid "Hey, I noticed you just use %s over a week – that’s awesome!"
+msgstr ""
+
+#: modules/actions/mod.php:81
+msgid "History"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://woobewoo.com/plugins/reward-points-for-woocommerce/"
+msgstr ""
+
+#: modules/adminmenu/mod.php:103
+msgid "I already did"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:66 
+#: modules/actions/views/tpl/actionsTabHistory.php:15 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:17
+msgid "Id"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:148
+msgid ""
+"If a product has a certain number of points, and a group that will include "
+"the same product has a different value, then you can determine which value "
+"to use for such cases"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:310
+msgid ""
+"If at the time of returning the goods, the client does not have enough "
+"Bonuses on the Bonus account to write off the amount previously accrued for "
+"the purchase and spent by the client, then: If \"Write off the rest\" is "
+"selected, the maximum possible number of bonuses will be written off; If "
+"\"Do not take bonuses (and not return bonus discount)\" is selected, then "
+"the bonuses accrued for the returned goods will not be deducted under any "
+"circumstances when returning the goods"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:67
+msgid ""
+"If the option is enabled, a field will be added to all program participants "
+"in their personal balance account, in the Settings section, asking them to "
+"enter their age. This will give you the option to limit company "
+"participation by age and will also help you use the Birthday trigger and Age "
+"condition for auto-action company planning in the future"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:8
+msgid ""
+"If the product is variable, you can set a reward for each variation "
+"separately. The value set by the variation takes precedence over the value "
+"set by the variable product"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:296
+msgid ""
+"If this option is enabled, discounted items will be excluded from the cart "
+"amount calculation"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:207
+msgid ""
+"If “Update when adding new ones” is selected, then each new purchase made by "
+"the user will reset the expiration timer to the value specified in the "
+"\"Reward expiry date\" option. If \"Each point has its own expiration date\" "
+"is selected, each point accrual will have its own expiration date, "
+"regardless of purchases made"
+msgstr ""
+
+#: classes/model.php:180
+msgid "Invalid ID"
+msgstr ""
+
+#: classes/modInstaller.php:120
+msgid "Invalid XML file"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:102
+msgid "Join reward program"
+msgstr ""
+
+#: classes/tables/modules.php:7
+msgid "Label"
+msgstr ""
+
+#: modules/actions/mod.php:102 
+#: modules/actions/views/tpl/actionsTabUsers.php:288
+msgid "Last active"
+msgstr ""
+
+#: modules/actions/mod.php:101 
+#: modules/actions/views/tpl/actionsTabUsers.php:268
+msgid "Last order"
+msgstr ""
+
+#: classes/tables/users.php:16
+msgid "Last Order Date"
+msgstr ""
+
+#: classes/tables/users.php:11
+msgid "Last update for birthday "
+msgstr ""
+
+#: modules/bonuses/models/details.php:11
+msgid "Level reward"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:173
+msgid "Logging"
+msgstr ""
+
+#: modules/actions/models/actions.php:327
+msgid "Logic"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:208
+msgid "Logic expiry date"
+msgstr ""
+
+#: modules/options/mod.php:69
+msgid "Main"
+msgstr ""
+
+#: classes/tables/products.php:8
+msgid "Main product"
+msgstr ""
+
+#: modules/actions/models/actions.php:9 
+#: modules/bonuses/models/transactions.php:16
+msgid "Manual"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:253
+msgid "Max to pay by points"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:281
+msgid "Max value BP for 1 cart"
+msgstr ""
+
+#. %s: min_age_user
+#: modules/bonuses/views/tpl/widgetPopup.php:96
+#, php-format
+msgid "Members of the reward program can only be persons over %s years old"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:138 
+#: modules/actions/views/tpl/actionsTabUsers.php:165
+msgid "Message"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:79
+msgid "Min age"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:289
+msgid "Min amount cart"
+msgstr ""
+
+#: modules/adminmenu/models/modules.php:46
+msgid "Module Update Failed"
+msgstr ""
+
+#: modules/adminmenu/models/modules.php:33
+msgid "Module Updated"
+msgstr ""
+
+#: modules/actions/models/users.php:357
+msgid "More info"
+msgstr ""
+
+#: modules/adminmenu/mod.php:20
+msgid "More plugins for your WordPress site here!"
+msgstr ""
+
+#: classes/field.php:132 classes/field.php:143 classes/field.php:148
+msgid "N/A"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:67 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:18
+msgid "Name"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:93
+msgid "Name one point"
+msgstr ""
+
+#: classes/modInstaller.php:115
+msgid "No modules were found in XML file"
+msgstr ""
+
+#: classes/modInstaller.php:123
+msgid "No XML file were found"
+msgstr ""
+
+#: modules/adminmenu/mod.php:102
+msgid "Nope, maybe later"
+msgstr ""
+
+#: classes/table.php:331
+msgid "Nothing to insert"
+msgstr ""
+
+#: classes/table.php:302
+msgid "Nothing to update"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:119
+msgid "now"
+msgstr ""
+
+#: classes/tables/products.php:12
+msgid "Number of the group"
+msgstr ""
+
+#: modules/adminmenu/mod.php:101
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabHistory.php:7
+msgid "Only those accruals that have already taken place will be shown"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:92 
+#: modules/bonuses/views/tpl/widgetPopup.php:67
+msgid "Operation"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:6
+msgid "OR"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:27
+msgid "Order"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Organization of the loyalty program of the bonus system for Woocommerce "
+"stores"
+msgstr ""
+
+#: classes/tables/actions.php:18
+msgid "Parameters"
+msgstr ""
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:245
+msgid "Pay Settings"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:130
+msgid "Percent reward points"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:27
+msgid ""
+"Place the widget of the Balance (Personal Account of the member of the "
+"Reward system) by adding this shortcode anywhere on your site or via "
+"standard WordPress widgets (Appearance->Widget)"
+msgstr ""
+
+#. %s url
+#: modules/options/views/tpl/optionsProFeature.php:4 
+#: modules/actions/views/tpl/actionsProFeature.php:4 
+#: modules/bonuses/views/tpl/bonusesProFeature.php:4
+#, php-format
+msgid ""
+"Please be advised that this feature available only in PRO version. You can "
+"%s today and have all PRO features of plugin!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdmin.php:7
+msgid "Plugin Settings"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:109
+msgid "Plural name"
+msgstr ""
+
+#: classes/tables/actions.php:10 classes/tables/transactions.php:10
+msgid "Poins"
+msgstr ""
+
+#: modules/options/mod.php:108
+msgid "Point"
+msgstr ""
+
+#: modules/options/mod.php:109 classes/tables/details.php:14 
+#: modules/actions/views/tpl/actionsTabUsers.php:70 
+#: modules/actions/views/tpl/actionsTabHistory.php:19 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:19
+msgid "Points"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:41
+msgid "points"
+msgstr ""
+
+#: modules/bonuses/models/bonuses.php:106 
+#: modules/bonuses/models/bonuses.php:117
+msgid "Points per purchase"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:152
+msgid "Preview email"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:179
+msgid "Preview popup"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:149
+msgid "Priority groups"
+msgstr ""
+
+#: classes/html.php:384 modules/adminmenu/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr ""
+
+#: modules/bonuses/models/details.php:9
+msgid "Product"
+msgstr ""
+
+#: classes/tables/details.php:10
+msgid "Product Id / Transaction Id"
+msgstr ""
+
+#: classes/tables/products.php:9
+msgid "Product point"
+msgstr ""
+
+#: classes/tables/products.php:10
+msgid "Product price"
+msgstr ""
+
+#: classes/tables/products.php:11
+msgid "Product Reward Points"
+msgstr ""
+
+#: modules/bonuses/controller.php:42
+msgid "Product's point saved"
+msgstr ""
+
+#: modules/bonuses/mod.php:345 
+#: modules/actions/views/tpl/actionsTabUsers.php:385
+msgid "Products"
+msgstr ""
+
+#: modules/bonuses/controller.php:72
+msgid "Products points recalculated"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:18 
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:24 
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:43
+msgid "Purchase"
+msgstr ""
+
+#: classes/tables/details.php:12
+msgid "Purchase currency"
+msgstr ""
+
+#: classes/tables/details.php:13
+msgid "Purchase quantity"
+msgstr ""
+
+#: classes/tables/details.php:11
+msgid "Purchase sum"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabHistory.php:18
+msgid "Reason"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:106
+msgid "Reason (max 50 symbols)"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:26
+msgid "Recacl products points"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:78
+msgid "Recacl users balance"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsAdmin.php:29
+msgid "Recalc balance"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesAdmin.php:34
+msgid "Recalc points"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:28
+msgid "Refund"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:306
+msgid "Refund Settings"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:105
+msgid "Refuse to participate"
+msgstr ""
+
+#: modules/actions/models/users.php:10 modules/actions/models/users.php:351
+msgid "Refused"
+msgstr ""
+
+#: modules/actions/mod.php:97 modules/actions/views/tpl/actionsTabUsers.php:204
+msgid "Registration"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:26
+msgid "Reserved"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:48
+msgid "Reset to default"
+msgstr ""
+
+#: classes/tables/transactions.php:11
+msgid "Rest"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:192
+msgid "Reward expiry date"
+msgstr ""
+
+#: classes/tables/products.php:14 classes/tables/users.php:12
+msgid "Reward Points"
+msgstr ""
+
+#: modules/bonuses/controller.php:89
+msgid "Reward points has been activated"
+msgstr ""
+
+#: modules/bonuses/controller.php:52
+msgid "Reward points saved"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:12
+msgid "Reward program is active"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:20
+msgid "Reward program is not active"
+msgstr ""
+
+#: modules/actions/mod.php:96 modules/actions/views/tpl/actionsTabUsers.php:68
+msgid "Role"
+msgstr ""
+
+#: modules/options/mod.php:110
+msgid "RP"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:86
+msgid "Rules for the use of reward points"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:44
+msgid "Rules page"
+msgstr ""
+
+#: modules/actions/views/actions.php:50 modules/bonuses/views/bonuses.php:166 
+#: modules/options/views/tpl/optionsTabMain.php:22
+msgid "Run"
+msgstr ""
+
+#: modules/actions/views/actions.php:54 
+#: modules/options/views/tpl/optionsAdmin.php:29 
+#: modules/bonuses/views/tpl/bonusesAdmin.php:29 
+#: modules/bonuses/views/tpl/widgetPopup.php:82
+msgid "Save"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:172
+msgid "Save debug messages to the WooCommerce SystemStatus Log"
+msgstr ""
+
+#: classes/req.php:28 classes/req.php:139 classes/req.php:170
+msgid "Security check"
+msgstr ""
+
+#: modules/actions/mod.php:115
+msgid "Select attribute"
+msgstr ""
+
+#: classes/html.php:294
+msgid "Select File"
+msgstr ""
+
+#: classes/tables/transactions.php:16 
+#: modules/actions/views/tpl/actionsTabUsers.php:130
+msgid "Send email"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:68
+msgid "Set an age limit"
+msgstr ""
+
+#: modules/bonuses/mod.php:323 modules/bonuses/views/bonuses.php:161 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:37 
+#: modules/bonuses/views/tpl/bonusesAdmin.php:7
+msgid "Set points"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:191
+msgid ""
+"Set the expiration date for the points that customers receive for purchases. "
+"For already received points, the setting will not be applied"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:280
+msgid "Set the maximum amount of points that can be used for one cart"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:252
+msgid ""
+"Set the maximum percentage of the cart amount that can be paid with Reward "
+"points"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:288
+msgid "Set the minimum amount of the cart to be able to use the points"
+msgstr ""
+
+#: modules/options/mod.php:41 modules/adminmenu/mod.php:19 
+#: modules/bonuses/views/bonuses.php:281
+msgid "Settings"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:247
+msgid "Shop"
+msgstr ""
+
+#: modules/actions/views/actions.php:48 modules/bonuses/views/bonuses.php:159 
+#: modules/bonuses/views/tpl/widgetPopup.php:57
+msgid "Show"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabHistory.php:7
+msgid "Show completed"
+msgstr ""
+
+#: classes/tables/transactions.php:17 
+#: modules/actions/views/tpl/actionsTabUsers.php:157
+msgid "Show popup"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:8
+msgid "Show variations"
+msgstr ""
+
+#: modules/actions/views/actions.php:49 modules/bonuses/views/bonuses.php:160
+msgid "Showing"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:24
+msgid "Spent"
+msgstr ""
+
+#: classes/tables/actions.php:16 classes/tables/users.php:8 
+#: classes/tables/transactions.php:18 
+#: modules/actions/views/tpl/actionsTabHistory.php:17 
+#: modules/bonuses/views/tpl/widgetPopup.php:66
+msgid "Status"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:14
+msgid "Stop"
+msgstr ""
+
+#: modules/actions/models/actions.php:16
+msgid "Stopped"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:134
+msgid "Subject"
+msgstr ""
+
+#: modules/adminmenu/views/tpl/adminFooter.php:15
+msgid "Support"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:349
+msgid "Tags"
+msgstr ""
+
+#: modules/actions/models/actions.php:122
+msgid "The action already completed or deleted"
+msgstr ""
+
+#: modules/actions/models/actions.php:127
+msgid "The action has empty points"
+msgstr ""
+
+#: modules/actions/models/actions.php:71
+msgid "The Expiry date cannot be less than the Action date"
+msgstr ""
+
+#: modules/actions/models/actions.php:51
+msgid "The field Action date: format error"
+msgstr ""
+
+#: modules/actions/models/actions.php:43
+msgid "The field Count not filled"
+msgstr ""
+
+#: modules/actions/models/users.php:531
+msgid "The field Date of birth: format error"
+msgstr ""
+
+#: modules/actions/models/actions.php:67
+msgid "The field Expiry date: format error"
+msgstr ""
+
+#: modules/actions/models/actions.php:35
+msgid "The field Reason must be a maximum of 50 characters"
+msgstr ""
+
+#: modules/actions/models/actions.php:31
+msgid "The field Reason not filled"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:43
+msgid ""
+"The rules for participation in the Reward system are generated automatically "
+"based on the set settings, but you can also edit them or, in which case, "
+"restore the default value"
+msgstr ""
+
+#: modules/actions/models/actions.php:91
+msgid "This action already completed or deleted"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:91
+msgid ""
+"This name will be used everywhere on the front of your store where the "
+"points name is involved"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:225
+msgid ""
+"This option controls the date format in the entire Reward system interface "
+"on the front.  For example, for a counter that is located in the users "
+"balance widget and shows when the points expire, or to enter the users age, "
+"etc"
+msgstr ""
+
+#: classes/tables/actions.php:8 
+#: modules/actions/views/tpl/actionsTabUsers.php:161
+msgid "Title"
+msgstr ""
+
+#: classes/tables/users.php:14
+msgid "Total Amount"
+msgstr ""
+
+#: modules/actions/mod.php:99 modules/actions/views/tpl/actionsTabUsers.php:236
+msgid "Total amount"
+msgstr ""
+
+#: classes/tables/users.php:15
+msgid "Total Order Count"
+msgstr ""
+
+#: modules/bonuses/models/details.php:8
+msgid "Transaction"
+msgstr ""
+
+#: classes/tables/transactions.php:12
+msgid "Transaction DateTime"
+msgstr ""
+
+#: classes/tables/details.php:8
+msgid "Transaction Id"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:277
+msgid "Transactions"
+msgstr ""
+
+#: classes/tables/actions.php:17
+msgid "Trigger"
+msgstr ""
+
+#: classes/tables/actions.php:9 classes/tables/modules.php:8 
+#: classes/tables/transactions.php:9
+msgid "Type"
+msgstr ""
+
+#: classes/tables/transactions.php:15
+msgid "Unique number"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:215
+msgid "Update when adding new ones"
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:12
+msgid "Use"
+msgstr ""
+
+#: modules/actions/mod.php:55 modules/actions/views/tpl/actionsAdmin.php:7
+msgid "User balance"
+msgstr ""
+
+#: modules/actions/controller.php:94
+msgid "User blocked"
+msgstr ""
+
+#: classes/tables/transactions.php:8
+msgid "User Id"
+msgstr ""
+
+#: modules/options/mod.php:90
+msgid "User levels"
+msgstr ""
+
+#: modules/actions/models/actions.php:250
+msgid "User list"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:186
+msgid "User roles"
+msgstr ""
+
+#: modules/actions/controller.php:94
+msgid "User unlocked"
+msgstr ""
+
+#: modules/actions/controller.php:107
+msgid "User's action saved"
+msgstr ""
+
+#: modules/actions/mod.php:75 
+#: modules/actions/views/tpl/actionsTabHistory.php:20
+msgid "Users"
+msgstr ""
+
+#: modules/actions/controller.php:83
+msgid "Users balance recalculated"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:42
+msgid "Valid until"
+msgstr ""
+
+#: modules/adminmenu/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:50
+msgid "View"
+msgstr ""
+
+#: modules/actions/models/actions.php:353
+msgid "View action"
+msgstr ""
+
+#: modules/actions/models/actions.php:13
+msgid "Wait"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:311
+msgid "When rewards are spent"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:28
+msgid "Widget shortcode"
+msgstr ""
+
+#: modules/actions/models/actions.php:276
+msgid "without orders"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:318
+msgid "Write off the rest"
+msgstr ""
+
+#. Author of the plugin
+msgid "wupsales"
+msgstr ""
+
+#. Name of the plugin
+msgid "WupSales - Reward Points for WooCommerce"
+msgstr ""
+
+#: modules/bonuses/controller.php:96
+msgid "You are blocked"
+msgstr ""
+
+#: modules/bonuses/controller.php:101
+msgid "You are not logged in"
+msgstr ""
+
+#: modules/bonuses/controller.php:98
+msgid "You are refused"
+msgstr ""
+
+#: modules/actions/models/users.php:545
+msgid "You can change your age only once/year."
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:89
+msgid ""
+"You have been blocked by the administrator, possibly for violating the rules "
+"of the reward program."
+msgstr ""
+
+#: modules/actions/views/actions.php:47
+msgid "You have no actions for now."
+msgstr ""
+
+#: classes/frame.php:150
+msgid "You have no permissions to view this page"
+msgstr ""
+
+#: modules/bonuses/views/bonuses.php:158
+msgid "You have no products for now."
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:8
+msgid "You have no transactions for now."
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabUsers.php:135 
+#: modules/actions/views/tpl/actionsTabUsers.php:162
+msgid "You have received reward points"
+msgstr ""
+
+#: modules/bonuses/views/tpl/widgetPopup.php:92
+msgid "You refused to participate."
+msgstr ""
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:15
+msgid "Your points balance"
+msgstr ""
+
+#: modules/options/views/tpl/optionsTabMain.php:158
+msgid "Еmails to send per session"
+msgstr ""
+
+#: modules/bonuses/models/transactions.php:29
+msgid "Сanceled"
+msgstr ""
+
+#: modules/actions/views/tpl/actionsTabHistory.php:21
+msgid "Сredited"
+msgstr ""

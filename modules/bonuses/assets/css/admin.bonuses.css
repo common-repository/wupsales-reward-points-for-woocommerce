@@ -1,0 +1,23 @@
+#wsbpBonusesForm .wupsales-table-list {
+	max-width: 500px;
+}
+#wsbpBonusesForm .dataTables_wrapper .dataTables_processing {
+	top: 100px;
+}
+.wupsales-table-list table td.wsbp-set-point {
+	cursor: pointer;
+	padding: 0 !important;
+	text-align: center !important;
+}
+.wsbp-input-point {
+	width: 100% !important;
+}
+.wupsales-table-list .wsbp_product_variation:before {
+	content: "\f12a";
+	font-family: 'FontAwesome';
+    left: -7px;
+    position: relative;
+}
+#wsbpGroupTable {
+	max-width: 900px;
+}

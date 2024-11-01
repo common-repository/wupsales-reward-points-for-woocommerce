@@ -1,0 +1,22 @@
+.wsbp-group-label {
+	font-size: 18px;
+    font-weight: bold;
+	margin-top: 10px;
+	display: flex;
+}
+.wsbp-group-label div {
+	margin: 0 15px;
+}
+.wsbp-group-first {
+	margin: 0;
+	margin-bottom: 10px;
+}
+#wsbpCartTable {
+	max-width: 500px;
+}
+#wsbpLevelTable {
+	max-width: 900px;
+}
+.options-label .wupsales-prolink {
+    margin: 0 10px;
+}

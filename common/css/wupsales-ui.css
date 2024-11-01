@@ -1,0 +1,1071 @@
+@import url("//fonts.googleapis.com/css?family=Roboto");
+.wupsales-wrap {
+	background-color: #ffffff;
+	margin: 0;
+	margin-left: -20px;
+	height: 100%;
+	padding: 0;
+	border: #eceff1 1px solid;
+}
+.wupsales-plugin {
+	width: 100%;
+	font-size: 13px;
+	background-color: #eceff1;
+	font-family: Roboto, Arial, sans-serif;
+	color: #000000;
+	overflow: hidden;
+}
+.wupsales-plugin * {
+	box-sizing: border-box;
+}
+
+/*links*/
+.wupsales-plugin a,
+.tooltipster-content a {
+	color: #228B22;
+	text-decoration: none;
+}
+.wupsales-plugin a.hover,
+.wupsales-plugin a:hover,
+.tooltipster-content a.hover,
+.tooltipster-content a:hover {
+	color: #32CD32;
+}
+
+/*plugin-content*/
+.wupsales-plugin .wupsales-content {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	background-color: #1d2327;
+	box-sizing: border-box;
+	position: relative;
+	min-height: 490px;
+}
+.wupsales-plugin .wupsales-content .wupsales-container {
+	margin-left: 80px;
+}
+.wupsales-item {
+	background: #ffffff;
+	padding: 20px;
+	position: relative;
+	min-height: 400px;
+}
+.wupsales-item p {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+}
+.wupsales-item small {
+	display: block;
+	color: #ccc;
+}
+.wupsales-pro-panel {
+	min-height: 450px;
+}
+
+/*plugin-navigation*/
+.wupsales-plugin .wupsales-content .wupsales-navigation {
+	float: left;
+	margin-right: 10px;
+	position: absolute;
+	width: 80px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: #1d2327;
+}
+.wupsales-navigation-show {
+	margin-left: 33px !important;
+}
+.wupsales-navigation ul {
+	padding: 0;
+	margin: 0;
+}
+.wupsales-navigation ul li {
+	text-align: center;
+	background-color: transparent;
+	margin: 0;
+	padding: 10px 0;
+	-webkit-transition: background 500ms;
+	-moz-transition: background 500ms;
+	-ms-transition: background 500ms;
+	-o-transition: background 500ms;
+	transition: background 500ms;
+}
+.wupsales-navigation ul li:hover,
+.wupsales-navigation ul li.active {
+	background-color: #228B22;
+}
+.wupsales-navigation ul li:hover a i,
+.wupsales-navigation ul li a {
+	color: #ffffff !important;
+	text-decoration: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.wupsales-navigation ul li a i {
+	display: block;
+	font-size: 2.2em;
+	margin-bottom: 5px;
+	width: 100%;
+	height: 32px;
+}
+.wupsales-navigation ul li.wupsales-pro {
+	background-color: #e74c3c;
+}
+
+/*plugin-bar*/
+.wupsales-bar {
+	padding: 10px 15px;
+	background-color: #F9F9F9;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+ul.wupsales-bar-controls {
+	display: inline;
+}
+ul.wupsales-bar-controls > li {
+	float: left;
+	margin: 1px 5px;
+}
+.wupsales-titlebar {
+	border-bottom: 1px solid #C4C4C4;
+	font-size: 20px;
+	color: #566A9D;
+	min-height: 50px;
+}
+.wupsales-title-icon {
+	font-size: 28px;
+	color: #228B22;
+}
+.wupsales-title-text {
+	line-height: 28px;
+}
+
+/* Loading */
+.wupsales-inline-loader {
+	min-width: 128px;
+	min-height: 15px;
+	background: url('../img/ajax-loader.gif') no-repeat center center;
+}
+
+/* jQuery UI Dialog */
+.wupsales-plugin .ui-dialog-titlebar {
+	background-color: #32CD32;
+	color: #ffffff !important;
+	line-height: normal;
+}
+
+.wupsales-plugin .iris-strip .ui-slider-handle::before {
+	content: none;
+}
+
+/*pro labels*/
+.wupsales-prolink {
+	color: #ffc107 !important;
+	font-weight: 600;
+	letter-spacing: 0.06em;
+	font-size: 12px;
+	line-height: 30px;
+}
+.wupsales-show-pro {
+	position: relative;
+	display: block;
+}
+.wupsales-show-pro:after {
+	display: block;
+	position: absolute;
+	content: 'PRO';
+	right: 1px;
+	top: -9px;
+	font-size: 8px;
+	letter-spacing: 0.06em;
+	color: #ffc107;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+.button-dark.wupsales-show-pro:after {
+	color: #ffffff;
+	right: 15px;
+	top: -20px;
+}
+.wupsales-navigation .wupsales-show-pro:after{
+	color: #ffffff;
+	right: 2px;
+	top: -5px;
+}
+
+.wupsales-pro-desc {
+	font-size: 14px;
+	color: #228b22;
+	font-family: Roboto, Arial, sans-serif;
+}
+.wupsales-pro-desc .button {
+	vertical-align: middle;
+}
+.wupsales-pro-option {
+	color: #c4c4c4;
+}
+
+/*buttons*/
+.wupsales-plugin .button,
+.wupsales-plugin button.button,
+.tooltipster-content button {
+	font-size: 13px;
+	color: #ffffff;
+	height: 35px;
+	min-height: 35px;
+	line-height: 33px;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	background: #32CD32;
+	background-color: #32CD32;
+	border: 1px solid #ffffff;
+	text-shadow: none;
+}
+.wupsales-plugin .wupsales-paginate.button {
+	border: 1px solid #ffffff !important;
+}
+.wupsales-plugin .button.button-primary {
+	-webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	/*height: 50px;
+	min-height: 50px;
+	line-height: 48px;*/
+	font-size: 16px;
+	padding: 0 15px;
+	background-color: #ffc107;
+}
+.wupsales-plugin .button.button-dark {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	background-color: #474747;
+}
+.wupsales-plugin .button.button-small {
+	height: 28px;
+	min-height: 28px;
+	line-height: 26px;
+	font-size: 13px !important;
+}
+.wupsales-plugin .button.button-mini {
+	height: 25px;
+	min-height: 25px;
+	line-height: 23px;
+}
+.wupsales-plugin .button.button-secondary {
+	color: #228b22;
+	background-color: #ffffff;
+	border: 1px solid #32CD32;
+}
+.wupsales-plugin .button.button-minor {
+	color: #000000;
+	background-color: #ffffff;
+	border: 1px solid #C4C4C4;
+}
+.wupsales-plugin .button.button-alert {
+    color: #ff5722;
+    background-color: #ffffff;
+    border: 1px solid #ff5722;
+}
+.wupsales-plugin .button i {
+	color: #7B7B7B;
+	margin-right: 5px;
+}
+.tooltipster-content button {
+	color: #32CD32;
+	background-color: #ffffff;
+	border: 1px solid #32CD32;
+	height: 28px;
+	min-height: 28px;
+	line-height: 26px;
+	font-size: 13px;
+	margin: 0 5px;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	outline: none;
+}
+.wupsales-plugin .button.dt-button:focus {
+	background: none;
+}
+
+.wupsales-plugin .button.hover,
+.wupsales-plugin .button:hover,
+.wupsales-plugin .button.focus,
+.wupsales-plugin .button:focus,
+.tooltipster-content button:hover,
+.tooltipster-content button:focus {
+	background-color: #32CD32 !important;
+	color: #ffffff !important;
+	-webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+	border: 1px solid #b0bec5 !important;
+	outline: none;
+}
+.wupsales-plugin .ui-state-active {
+	background-color: #32CD32 !important;
+	border: 1px solid #b0bec5 !important;
+}
+.wupsales-plugin .button-dark:hover,
+.wupsales-plugin .button-dark:focus {
+	background: #228B22;
+	color: #ffffff;
+}
+.wupsales-plugin .button:not(.disabled):hover i,
+.wupsales-plugin .button:not(.disabled):focus i {
+	color: #ffffff;
+}
+
+.wupsales-plugin .button[disabled],
+.wupsales-plugin .button:disabled,
+.wupsales-plugin .button.disabled:not(.wupsales-paginate),
+.wupsales-plugin .button-disabled {
+	color: #ffffff !important;
+	background-color: #b0bec5 !important;
+	text-shadow: none !important;
+	cursor: default !important;
+	opacity: 1 !important;
+}
+.wupsales-plugin .button.button-secondary.disabled {
+	color: #7B7B7B !important;
+	background-color: #ffffff !important;
+}
+.wupsales-plugin .button-alert:hover, .wupsales-plugin .button-alert:focus {
+    background-color: #ff5722 !important;
+}
+
+.button.button-small.wp-picker-default {
+	margin: 10px 0 0 10px;
+}
+.button.wupsales-paginate {
+	color: #64808e !important;
+	background: transparent !important;
+}
+.button.wupsales-paginate.disabled {
+	background: transparent !important;
+}
+.button.wupsales-paginate i {
+	width: 8px;
+	font-size: 18px;
+	padding-top: 4px;
+}
+.button.wupsales-paginate:hover, .button.wupsales-paginate:focus{
+	background: #32CD32 !important;
+}
+.button.wupsales-paginate.current {
+	color: #32CD32 !important;
+}
+.button.wupsales-paginate:hover {
+	color: #ffffff !important;
+}
+
+/*tooltip*/
+.fa-question.wupsales-tooltip {
+	background-color: #c4c4c4;
+	border-radius: 50%;
+	margin: 1px 3px 0 3px;
+	padding: 4px 6px;
+	font-size: 10px;
+	height: 18px;
+	width: 18px;
+	color: #000000;
+}
+
+/*sticky items*/
+.wupsales-sticky-active {
+	position: fixed !important;
+	z-index: 99;
+}
+.wupsales-sticky-active.wupsales-sticky-active-bordered {
+	border-bottom: 2px solid #ddd !important;
+}
+.sticky-full-width {
+	width: calc(99% - 75px - 200px);
+}
+
+/*textboxes*/
+.wupsales-plugin input[type=text], .wupsales-plugin input[type=search], input[type=number],
+.wupsales-plugin select{
+	background-color: #ffffff;
+	color: #000000;
+	border: 1px solid #C4C4C4;
+	height: 28px;
+	min-height: 20px !important;
+	font-size: 13px !important;
+	outline: none;
+}
+.wupsales-plugin input:disabled {
+	background-color: #E7E7E7 !important;
+    cursor: pointer;
+}
+.wupsales-plugin input::placeholder {
+	color: #bfcbd0;
+}
+.wupsales-plugin select {
+	padding-right: 24px !important;
+	background: #fff url(images/down.png) no-repeat right 5px top 55% !important;
+}
+.wupsales-plugin .dataTables_filter input {
+	height: 28px;
+	min-height: 28px;
+	box-sizig: border-box !important;
+}
+.wupsales-plugin textarea {
+	background-color: #ffffff;
+	color: #64808e;
+	border: 1px solid #C4C4C4;
+	font-size: 13px;
+	line-height: 20px;
+}
+.wupsales-plugin input, .wupsales-plugin select {
+	outline: none;
+	line-height: normal;
+	box-shadow: none !important;
+}
+.wupsales-plugin input:not([type=radio]), .wupsales-plugin select, .wupsales-plugin textarea {
+	border-radius: 0 !important;
+	border-color: #C4C4C4 !important;
+}
+.wupsales-plugin input[type=checkbox] {
+	width: 16px;
+	height: 16px;
+	margin: -4px 4px 0 0;
+}
+.wupsales-plugin input[type=checkbox]:checked {
+	background: center no-repeat url(images/check.png);
+	content: "";
+}
+.wupsales-plugin input[type=checkbox]:checked:before {
+	content: "";
+}
+.wupsales-plugin input[type=radio]:checked:before {
+	background-color: #32CD32;
+}
+.wupsales-plugin input[type=radio]:focus {
+	border-color: #32CD32;
+}
+
+.wupsales-plugin input[type=text], .wupsales-plugin input[type=number] {
+	padding: 7px 5px;
+}
+.wupsales-flat-input {
+	background-color: transparent !important;
+	border-top: none !important;
+	border-left: none !important;
+	border-right: none !important;
+	height: 20px !important;
+	font-weight: normal;
+	line-height: normal !important;
+}
+input.wupsales-flat-input {
+	padding: 1px 5px !important;
+}
+select.wupsales-flat-input {
+	padding-left: 5px !important;
+	padding-top: 1px !important;
+	padding-bottom: 1px !important;
+	background: transparent url(images/down.png) no-repeat right 5px top 55% !important;
+}
+select.wupsales-flat-input:focus {
+	border-color: #e2e7ea !important;
+}
+select.wupsales-flat-input option {
+	background-color: #fafafa !important;
+}
+.wupsales-plugin label {
+	margin: 0 5px 0 0;
+	cursor: default;
+}
+.wupsales-plugin input:focus,
+.wupsales-plugin select:focus,
+.wupsales-plugin textarea:focus {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border-color: #3dbaf3;
+	outline: none !important;
+}
+.wupsales-plugin select:hover {
+	color: #32CD32;
+}
+.wupsales-plugin input[type=text].wsbpInputError,
+.wupsales-plugin textarea.wsbpInputError {
+	border-color: #fa4e7f;
+	border-bottom: none !important;
+	border-left: none !important;
+	border-right: none !important;
+	border-width: 1px !important;
+}
+.wupsales-number {
+	text-align: right;
+}
+.wupsales-plugin input[type="file"] {
+	display: none;
+}
+.wupsales-inputfile {
+  position: relative;
+  width: 300px;
+}
+.wupsales-inputfile label {
+	display: flex;
+}
+.wupsales-namefile {
+	display: inline-block;
+	width: 100%;
+	border: 1px solid #C4C4C4;
+	padding: 0 5px;
+	box-sizing: border-box;
+	height: 28px;
+	line-height: 28px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 13px;
+}
+.wupsales-plugin .button.buttonfile {
+	color: #32CD32;
+	background-color: #C4C4C4;
+	border: 1px solid #C4C4C4;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	height: 28px;
+	min-height: 28px;
+	line-height: 26px;
+	font-size: 13px;
+}
+.wupsales-plugin .button.buttonfile:hover,
+.wupsales-plugin .button.buttonfile:focus {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.wupsales-input-group {
+	display: inline-flex;
+	line-height: 28px;
+	margin-top: 10px;
+}
+.wupsales-group-label {
+	margin: 0 15px;
+	font-weight: 700;
+}
+.wupsales-check-group {
+	display: inline-flex;
+	line-height: 28px;
+}
+.wupsales-check-group input {
+	position: relative;
+	top: 5px;
+}
+.wupsales-check-group label {
+	margin: 0 5px;
+}
+.wupsales-plugin input[type=search] {
+	background-image: url('images/search.png');    
+	background-repeat: no-repeat;
+	background-color: #fff;
+	background-position: right 5px center;
+	padding-right: 24px;
+	width: 100px;
+}
+.wupsales-plugin input.toggle{
+	display: none;
+}
+.wupsales-plugin label.toggle {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 30px;
+	height: 16px;
+	background: #b0bec5;
+	display: block;
+	border-radius: 100px;
+	position: relative;
+	margin: 2px 0;
+}
+.wupsales-plugin label.toggle:after {
+	content: '';
+	position: absolute;
+	top: 1px;
+	left: 1px;
+	width: 14px;
+	height: 14px;
+	background: #fff;
+	border-radius: 90px;
+	transition: 0.3s;
+}
+.wupsales-plugin input.toggle:checked + label.toggle {
+	background: #32CD32;
+}
+.wupsales-plugin input.toggle:checked + label.toggle:after {
+	left: calc(100% - 1px);
+	transform: translateX(-100%);
+}
+.wupsales-plugin label.toggle:active:after {
+	width: 16px;
+}
+
+/*chosen selects*/
+.wupsales-plugin .chosen-container-multi .chosen-choices li.search-choice {
+	background-image: none;
+	background-color: transparent;
+	border: 1px solid #d8dfe3;
+	border-radius: 0;
+	color: #64808e;
+	box-shadow: none;
+}
+.wupsales-plugin .chosen-container-multi input {
+	color: #64808e !important;
+}
+.wupsales-plugin .chosen-container-multi .chosen-choices {
+	background-image: none;
+	height: 28px;
+}
+.wupsales-plugin .chosen-container-active .chosen-choices {
+	border-color: #4ae8ea;
+	box-shadow: none;
+}
+.wupsales-plugin .chosen-container.chosen-container-multi:not(.chosen-responsive) {
+	min-width: 200px;	
+}
+.wupsales-plugin .chosen-responsive {
+	width: 100% !important;
+}
+
+/*datepicker*/
+.ui-datepicker {
+	border: 1px solid #000;
+}
+.ui-datepicker .ui-datepicker-header .ui-icon {
+	width: 18px;
+	height: 21px;
+	margin-top: -5px;
+	cursor: pointer;
+	font-size: 1.5em;
+}
+.ui-datepicker .ui-datepicker-header .ui-state-hover .ui-icon {
+	color: #4ae8ea !important;
+}
+.ui-datepicker .ui-datepicker-header .ui-datepicker-prev {
+	left: 2px;
+	top: 2px;
+}
+.ui-datepicker .ui-datepicker-header .ui-datepicker-next {
+	right: 2px;
+	top: 2px;
+}
+.ui-icon-circle-triangle-w:before {
+	content: "\f060";
+}
+.ui-icon-circle-triangle-e:before {
+	content: "\f061";
+}
+.ui-datepicker td span, .ui-datepicker td a {
+	text-align: center !important;
+}
+.wupsales-main-container {
+	min-height: 308px;
+}
+
+/*link with some input inside*/
+.wupsales-plugin .wp-color-result {
+	height: auto;
+	border: 1px solid #d8dfe3 !important;
+	border-right: none !important;
+}
+.wupsales-plugin .slimScrollBar{
+	background-color: #b0bec5 !important;
+}
+/*media*/
+@media screen and (max-width: 960px) {
+	.wupsales-wrap {
+		margin-left: -10px;
+	}
+	.wupsales-plugin .wupsales-content .wupsales-navigation {
+		width: 35px;
+	}
+	.wupsales-plugin .wupsales-content .wupsales-container {
+		margin-left: 35px;
+	}
+	.wupsales-navigation .sup-tab-label {
+		display: none;
+	}
+	.wupsales-plugin .chosen-container.chosen-container-multi {
+		min-width: 50px;
+	}
+}
+
+/*wp add transition for all links in admin area, this is not required for our chosen "x" buttons*/
+a.search-choice-close {
+	transition-duration: 0s;
+}
+
+/* styles for colorpicker elements */
+.wupsales-color-picker {
+	display: flex;
+	text-align: right;
+}
+.wupsales-color-wrapper {
+	display: inline-block;
+	width: 35px;
+	height: 25px;
+	cursor: pointer;
+}
+.wupsales-color-preview {
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	border: 1px solid #c4c4c4;
+}
+.wupsales-color-input {
+	height: 25px !important;
+	width: 75px !important;
+	margin: 0 !important;
+	border-left: 0 !important;
+	align-self: auto !important;
+}
+.wupsales-plugin .right-label {
+	padding-left: 5px;
+	line-height: 28px;
+}
+
+.wupsales-plugin #chooseIconPopup .items-list {
+	display: block;
+	width: 100%;
+	position: relative;
+}
+.wupsales-plugin #chooseIconPopup .items-list .item {
+	cursor: pointer;
+	width: 20%;
+	position: relative;
+	height: 150px;
+	text-align: center;
+	float: left;
+	-webkit-transition: all 250ms linear;
+	-moz-transition: all 250ms linear;
+	-o-transition: all 250ms linear;
+	transition: all 250ms linear;
+}
+.wupsales-plugin #chooseIconPopup .items-list .item .item-inner {
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	height: 100%;
+	-ms-flex-pack: center;
+	-ms-flex-align: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	-moz-box-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-moz-box-align: center;
+	align-items: center;
+}
+.wupsales-plugin #chooseIconPopup .items-list .item .item-title {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	font-size: 12px;
+	line-height: 1em;
+	text-align: center;
+}
+.wupsales-tooltips-wrapper {
+	text-align: center;
+}
+.wupsales-tooltips-wrapper .wupsales-tooltips-text{
+	margin-bottom: 4px;
+	text-align: left;
+}
+.wupsales-tooltips-wrapper img{
+	max-width: 400px;
+}
+
+.wupsales-notice-bar {
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 40px;
+	color: #228B22;
+}
+
+input.wupsales-shortcode {
+	background-color: #E7E7E7 !important;
+	color: #000000 !important;
+	font-family: monospace;
+	cursor: pointer;
+	text-align: center;
+	border: none !important;
+}
+
+
+/*additional styles*/
+.wupsales-hidden {
+	display: none !important;
+}
+.wupsales-clear:after {
+	clear: both;
+	content: '';
+	display: table;
+}
+.wupsales-width1 {
+	width: 1px;
+}
+.wupsales-width40 {
+	width: 40px !important;
+}
+.wupsales-width60 {
+	width: 60px !important;
+}
+.wupsales-width80 {
+	width: 80px !important;
+}
+.wupsales-width100 {
+	width: 100px;
+}
+.wupsales-width120 {
+	width: 120px;
+}
+.wupsales-width150 {
+	width: 150px !important;
+}
+.wupsales-width200 {
+	width: 200px !important;
+}
+.wupsales-width-full {
+	width: 100% !important;
+}
+.wupsales-width-auto {
+	width: auto !important;
+}
+.wupsales-maxwidth-full {
+	max-width: 100%;
+}
+.wupsales-width300 {
+	width: 300px !important;
+}
+.wupsales-center {
+	text-align: center;
+}
+.wupsales-border-right {
+	border-right: 1px solid rgba(164, 170, 172, 0.28);
+}
+.wupsales-right {
+	float: right !important;
+}
+.wupsales-plugin .input-small {
+	width: 40px !important;
+}
+.wupsales-plugin input[type=number].input-small {
+	width: 50px !important;
+}
+.wupsales-waiting, .wupsales-waiting div, .wupsales-waiting input, .wupsales-waiting select, .wupsales-waiting ul {
+	cursor: wait !important;
+}
+.wupsales-wrap-overlay {
+	background: #2c3338 !important;
+	opacity: 0.2 !important;
+}
+
+.wupsales-menu-tabs {
+	background: #ffffff;
+	padding: 5px 20px 0 20px;
+}
+.wupsales-control-buttons {
+	margin: 0;
+}
+.wupsales-control-buttons  li {
+	margin: 0 5px;
+	float: right;
+}
+/* Options */
+.wupsales-plugin .row-options-block {
+	margin-bottom: 10px;
+}
+.wupsales-plugin .row-options-block-sub>.options-label:before {
+	content: "\f0da";
+	font-family: FontAwesome;
+}
+.wupsales-plugin .options-values .options-value {
+	float: left;
+	margin-right: 15px;
+	display: flex;
+	min-height: 26px;
+	align-self: center;
+	margin-bottom: 2px;
+}
+.wupsales-plugin .options-value input, .wupsales-plugin .options-value select, .wupsales-plugin .options-value label {
+	align-self: center;
+}
+.wupsales-plugin .options-values .options-label {
+	/*margin: 0 5px;*/
+	align-self: center;
+}
+.wupsales-plugin .options-values .options-value .options-label {
+	margin: 0 5px;
+}
+.wupsales-plugin .options-value, .wupsales-plugin .options-value input, .wupsales-plugin .options-value select {
+	max-width: 100%;
+}
+.wupsales-plugin .options-description {
+	font-style: normal;
+	color: #a4aaac;
+	font-weight: 500;
+	font-size: 10px;
+	display: block;
+}
+.wupsales-plugin .options-buttons {
+	text-align: right;
+}
+.wupsales-result-section {
+	padding: 10px;
+	min-width: 250px;
+	overflow: hidden;
+	text-align: left;
+}
+.wupsales-result-settings {
+	margin: 10px auto 0 -5px;
+}
+.wupsales-result-settings .settings-wrapper {
+	width: 200px;
+	display: inline-block;
+}
+.wupsales-plugin .settings-note {
+	color: #566a9d;
+	font-weight: normal;
+	line-height: 20px;
+	width: 100%;
+}
+.wupsales-plugin .input-edit-wrapper {
+	display:inline-block;
+	position: relative;
+}
+.wupsales-plugin .input-edit-wrapper input {
+	padding-right: 24px !important;
+}
+.wupsales-plugin .input-edit-wrapper:after {
+	font-family: 'FontAwesome';
+	content: '\f040';
+	position: absolute;
+	top: 0;
+	right: 4px;
+	color: #c1c1c1;
+}
+.wupsales-plugin .notify-icon {
+	margin-right: 10px;
+}
+.wupsales-template {
+	display: none !important;
+}
+.wupsales-grbtn {
+	padding: 0;
+	/*margin: 0 3px;*/
+	margin: 0;
+	float: left;
+	width: 100%;
+}
+.wupsales-grbtn li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+	margin: 1px -2px;
+	border: none;
+}
+.wupsales-grbtn li a.button {
+	background-color: transparent;
+	color: #000000;
+	font-size: 14px;
+	letter-spacing: 0.06em;
+	margin: 0;
+	padding: 0 20px;
+	border: 1px solid #C4C4C4;
+	border-left-color: transparent;
+	border-radius: 0;
+}
+.wupsales-grbtn li:first-child a.button {
+	border: 1px solid #C4C4C4;
+}
+.wupsales-grbtn li a.button:hover,
+.wupsales-grbtn li a.button:active,
+.wupsales-grbtn li a.button:focus,
+.wupsales-grbtn li a.button.current {
+	outline: none !important;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	background-color: #32CD32;
+	color: #ffffff;
+	border-color: #32CD32;
+}
+.wupsales-grbtn li a.button.current i {
+	color: #ffffff;
+}
+
+.wupsales-plugin .block-tab, .wupsales-plugin .sub-tab-content.active {
+	display: none;
+}
+.wupsales-plugin .block-tab.active, .wupsales-plugin .sub-tab-content.active {
+	display: block;
+}
+.wupsales-table-list .dt-buttons{
+	text-align: left;
+}
+.wupsales-list-actions {
+	display: inline-block;
+    text-align: right;
+	white-space: nowrap;
+}
+.wupsales-list-actions i {
+	color: #7B7B7B;
+	margin: 0 2px;
+	cursor: pointer;
+}
+.wupsales-action-icon {
+	cursor: pointer;
+}
+.wupsales-list-actions i:hover, .wupsales-action-icon:hover {
+	color: #32CD32;
+	font-weight: bold;
+}
+.wupsales-actions-buttons {
+	margin: 0;
+}
+.wupsales-actions-buttons li {
+	display: inline-block;
+}
+
+
+
+
+.wupsales-table-list table th {
+	text-align: left !important;
+	border-bottom: 1px solid #dcdcdc !important;
+	/*color: #228B22;*/
+}
+.wupsales-table-list table td {
+	padding-left: 18px !important;
+	text-align: left !important;
+}
+.wupsales-table-list table td.dt-center {
+	text-align: center !important;
+}
+.wupsales-table-list table {
+	border-bottom: 1px solid #dcdcdc !important;
+}
+.wupsales-table-list .dataTables_processing {
+	top: 100px;
+}
+.wupsales-table-list .dataTables_length {
+	line-height: 30px;
+}
+.wupsales-nowrap {
+	white-space: nowrap;
+}

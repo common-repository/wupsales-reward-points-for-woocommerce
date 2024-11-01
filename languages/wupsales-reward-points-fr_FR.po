@@ -1,0 +1,3006 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WupSales - Reward Points for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-19 17:03+0000\n"
+"PO-Revision-Date: 2022-11-24 04:50+0000\n"
+"Last-Translator: DebugAdminLprR\n"
+"Language-Team: Français\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1\n"
+"X-Domain: wupsales-reward-points"
+
+#: classes/modInstaller.php:85
+msgid " directory 755 or 777"
+msgstr "répertoire 755 ou 777"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:99 
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:104 
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:128 
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:145 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:99
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:104
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:128
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:145
+msgid ")"
+msgstr ")"
+
+#: modules/options/views/tpl/optionsTabMain.php:118
+msgid "Abbreviated"
+msgstr "Abbréviation"
+
+#: modules/bonuses/views/bonuses.php:276
+msgid "Account Details"
+msgstr "Détails du compte"
+
+#: classes/tables/actions.php:11
+msgid "Action Date"
+msgstr "Date de l’action"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:111
+msgid "Action date"
+msgstr "Date de l’action"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:4
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:4
+msgid "Action date from"
+msgstr "Date d’action depuis"
+
+#: modules/actions/controller.php:117
+msgid "Action deleted"
+msgstr "Action supprimée"
+
+#: modules/actions/models/actions.php:118
+msgid "Action not found"
+msgstr "Action non trouvée"
+
+#: classes/tables/transactions.php:14
+msgid "Action/Order Id"
+msgstr "ID d’Action/de Commande"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:27
+#:  modules/actions/views/tpl/actionsTabUsers.php:71 
+#: modules/actions/views/tpl/actionsTabHistory.php:22 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:27
+msgid "Actions"
+msgstr "Actions"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:143 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:143
+msgid "Activate"
+msgstr "Activer"
+
+#: classes/tables/modules.php:9 modules/actions/models/actions.php:15 
+#: modules/actions/models/users.php:11 
+#: modules/bonuses/models/transactions.php:23
+msgid "Active"
+msgstr "Actif"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:116 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:123 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:116
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:123
+msgid "Add"
+msgstr "Ajouter"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:95
+msgid "add"
+msgstr "ajouter"
+
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:29 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:29
+msgid "Add company"
+msgstr "Ajouter une campagne"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:54
+msgid "Add filter"
+msgstr "Ajouter un filtre"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:29 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:29
+msgid "Add level"
+msgstr "Ajouter un niveau"
+
+#: modules/actions/models/users.php:355
+msgid "Add point"
+msgstr "Ajouter un point"
+
+#: modules/actions/views/actions.php:51 
+#: modules/actions/views/tpl/actionsTabUsers.php:89
+msgid "Add points"
+msgstr "Ajouter des points"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:51
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:51
+msgid "Add reward points"
+msgstr "Ajouter des points"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:252
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:279
+#:  modules/actions/views/tpl/actionsTabUsers.php:144 
+#: modules/actions/views/tpl/actionsTabUsers.php:171 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:252
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:279
+msgid "Add reward points block"
+msgstr "Ajouter un block de points de récompense"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:256
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:283
+#:  modules/actions/views/tpl/actionsTabUsers.php:148 
+#: modules/actions/views/tpl/actionsTabUsers.php:175 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:256
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:283
+msgid "Add shop button"
+msgstr "Ajouter un bouton d'achat"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:152
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:152
+msgid "Additional conditions"
+msgstr "Conditions supplémentaires"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:79 
+#: modules/actions/mod.php:98 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:79
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:327
+#:  modules/actions/views/tpl/actionsTabUsers.php:220 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:327
+msgid "Age"
+msgstr "Âge"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:183
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:183
+msgid "Age from"
+msgstr "Depuis l’âge de"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:187
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:187
+msgid "Age to"
+msgstr "Jusqu’à l’âge de"
+
+#: modules/actions/views/actions.php:57 modules/bonuses/views/bonuses.php:165
+msgid "All"
+msgstr "Tout"
+
+#: modules/options/views/tpl/optionsTabMain.php:157
+msgid ""
+"All scheduled emails are sent once per hour. Determine how many emails to "
+"send at one time"
+msgstr ""
+"Tous les courriels programmés sont envoyés une fois par heure. Définissez "
+"combien de courriels sont envoyés en même temps"
+
+#: modules/adminmenu/mod.php:48
+msgid "All Tables"
+msgstr "Toutes les tables"
+
+#: modules/actions/models/actions.php:345
+msgid "All users"
+msgstr "Tous les utilisateurs"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:219 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:65
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:219
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:65
+msgid "Amount of purchases"
+msgstr "Montant des achats"
+
+#: modules/bonuses/mod.php:326 
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:15 
+#: modules/bonuses/views/tpl/analyticsAdmin.php:7 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:15
+msgid "Analytics"
+msgstr "Statistiques"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:164
+#:  ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:7 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:8 
+#: modules/actions/views/tpl/actionsTabUsers.php:6 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:164
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:7
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:8
+msgid "AND"
+msgstr "ET"
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:25
+msgid "Apply"
+msgstr "Appliquer"
+
+#: modules/actions/models/users.php:325
+msgid "Are you sure to block this user?"
+msgstr "Êtes-vous sûr de vouloir bloquer cet utilisateur ?"
+
+#: modules/actions/models/actions.php:238
+msgid "Are you sure to delete this action?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette action ?"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:294 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:294
+msgid "Are you sure to delete this company?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette campagne ?"
+
+#: modules/actions/models/users.php:326
+msgid "Are you sure to unlock this user?"
+msgstr "Êtes-vous sûr de vouloir débloquer cet utilisateur ?"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:30 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:30
+msgid "Are you sure want to remove cart bonus?"
+msgstr "Êtes-vous sûr de vouloir supprimer ces bonus panier ?"
+
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:33 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:33
+msgid "Are you sure want to remove companies?"
+msgstr "Êtes-vous sûr de vouloir supprimer ces campagnes ?"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:50 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:50
+msgid "Are you sure want to remove groups?"
+msgstr "Êtes-vous sûr de vouloir supprimer ces groupes ?"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:33 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:33
+msgid "Are you sure want to remove levels?"
+msgstr "Êtes-vous sûr de vouloir supprimer ces niveaux ?"
+
+#: modules/bonuses/views/bonuses.php:164
+msgid "Are you sure want to remove product's points?"
+msgstr "Êtes-vous sûr de vouloir supprimer les points de ce produit ?"
+
+#: modules/options/views/options.php:27
+msgid "Are you sure want to reset rules page?"
+msgstr "Êtes-vous sûr de vouloir réinitialiser la page de règles ?"
+
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:75 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:75
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:162 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:162
+msgid "Attribute"
+msgstr "Attribut"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:326
+msgid "Attributes"
+msgstr "Attributs"
+
+#: modules/actions/models/actions.php:10 
+#: modules/bonuses/models/transactions.php:17
+msgid "Auto"
+msgstr "Auto"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsAdmin.php:8 
+#: modules/actions/views/tpl/autoactionsAdmin.php:7 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsAdmin.php:8
+msgid "Auto Actions"
+msgstr "Actions automatiques"
+
+#: modules/actions/mod.php:58
+msgid "AutoActions"
+msgstr "Actions automatiques"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:26
+msgid "available for payments"
+msgstr "disponible(s) pour le paiement"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:131 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:131
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:135 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:135
+msgid "Badge product balance"
+msgstr "Badge du solde produit"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:41
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:41
+msgid "Begin date"
+msgstr "Date de début"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:22 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:22
+msgid "Best selling product (with RP)"
+msgstr "Meilleures ventes produit (avec points)"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:67 
+#: classes/tables/users.php:9 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:67
+msgid "Birthday"
+msgstr "Anniversaire"
+
+#: classes/tables/users.php:10
+msgid "Birthday m-d"
+msgstr "Anniversaire m-j"
+
+#: modules/actions/models/users.php:12 modules/actions/models/users.php:351
+msgid "Blocked"
+msgstr "Bloqué"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:39 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:39
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:36
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:36
+msgid "Bonus"
+msgstr "Bonus"
+
+#: modules/actions/mod.php:106
+msgid "Bought brands"
+msgstr "Marques achetées"
+
+#: modules/actions/mod.php:103
+msgid "Bought in categories"
+msgstr "Catégories achetées"
+
+#: modules/actions/mod.php:107
+msgid "Bought products"
+msgstr "Produits achetés"
+
+#: modules/actions/mod.php:104
+msgid "Bought with attributes"
+msgstr "Achat avec les attributs"
+
+#: modules/actions/mod.php:105
+msgid "Bought with tags"
+msgstr "Acahts avec les étiquettes"
+
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:77 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:77
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:203 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:203
+msgid "Brand"
+msgstr "marque"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:367
+msgid "Brands"
+msgstr "Marques"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:72 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:72
+msgid "By reviewing"
+msgstr "En laissant un avis"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:73 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:73
+msgid "By visiting a specific page"
+msgstr "En visitant une page donnée"
+
+#: classes/tables/products.php:15 classes/tables/users.php:17
+msgid "Calculated"
+msgstr "Calculé"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:294 
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:32 
+#: modules/actions/models/actions.php:238 modules/actions/models/users.php:325 
+#: modules/actions/models/users.php:326 modules/actions/views/actions.php:55 
+#: modules/bonuses/views/bonuses.php:163 modules/bonuses/views/bonuses.php:167 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:294
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:32
+msgid "Cancel"
+msgstr "Annuler"
+
+#: modules/options/mod.php:83
+msgid "Cart"
+msgstr "Panier"
+
+#: classes/tables/users.php:13
+msgid "Cart coupon"
+msgstr "Code promo de panier"
+
+# À vérifier
+#: modules/bonuses/models/details.php:12
+msgid "Cart fix"
+msgstr "Correction panier"
+
+#: modules/bonuses/models/details.php:10
+msgid "Cart reward"
+msgstr "Récompense panier"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:304
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:74 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:74
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:136 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:136
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:42 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:42
+msgid "Choose Cart settings to delete"
+msgstr "Choisissez les paramètres de panier à supprimer"
+
+#: modules/bonuses/views/bonuses.php:170
+msgid "Choose Groups to delete"
+msgstr "Choisissez les groupes à supprimer"
+
+#: classes/html.php:381
+msgid "Choose Icon"
+msgstr "Choisissez une icône"
+
+#: modules/bonuses/views/bonuses.php:169
+msgid "Choose Products to clear points"
+msgstr "Sélectionnez les produits dont les points sont à effacer"
+
+#: modules/bonuses/views/bonuses.php:168
+msgid "Choose Products to set points"
+msgstr "Sélectionnez les produits dont les points sont à définir"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:41 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:41
+msgid "Choose User levels to delete"
+msgstr "Choisissez les niveaux utilisateur à supprimer"
+
+#: modules/actions/views/actions.php:59
+msgid "Choose Users to delete points"
+msgstr "Sélectionnez les utilisateurs dont les points sont à effacer"
+
+#: modules/actions/views/actions.php:58
+msgid "Choose Users to set points"
+msgstr "Sélectionnez les utilisateurs dont les points sont à définir"
+
+#: modules/bonuses/views/bonuses.php:162
+msgid "Clear points"
+msgstr "Effacer les points"
+
+#: classes/tables/modules.php:11
+msgid "Code"
+msgstr "Code"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:158 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:115 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:241 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:158
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:115
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:241
+msgid "Color"
+msgstr "Couleur"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:206 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:206
+msgid "Color product badge"
+msgstr "Couleur du badge produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:80 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:80
+msgid "Color user balance"
+msgstr "Couleur du solde utilisateur"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:45 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:45
+msgid "Companies"
+msgstr "Campagnes"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:18
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:33
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:18
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:33
+msgid "Company"
+msgstr "Campagne"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:87 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:87
+msgid "Company not found"
+msgstr "Campagne non trouvée"
+
+#: ../wupsales-reward-points-pro/autoactions/controller.php:69 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/controller.php:69
+msgid "Company saved"
+msgstr "Campagne enregistrée"
+
+#: modules/actions/models/actions.php:14 
+#: modules/bonuses/models/transactions.php:27
+msgid "Completed"
+msgstr "Terminé"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:43 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:43
+msgid "Condition"
+msgstr "Condition"
+
+#: classes/tables/actions.php:19 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:109 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:12
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:116 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:109
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:12
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:116
+msgid "Conditions"
+msgstr "Conditions"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:294 
+#: modules/actions/models/actions.php:238 modules/actions/models/users.php:325 
+#: modules/actions/models/users.php:326 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:294
+msgid "Confirm"
+msgstr "Confirmer"
+
+#. %s: plugin name
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:25 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:25
+#, php-format
+msgid ""
+"Congratulations! PRO version of %s plugin is activated and working fine!"
+msgstr ""
+"Félicitations! Le version PRO de l’extension %s est activée et fonctionnelle!"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:91
+msgid "Congratulations! You are reward program participant."
+msgstr "Félécitations! Vous participez au program de récompense."
+
+#. %s: plugin name
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:35 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:35
+#, php-format
+msgid ""
+"Congratulations! You have successfully installed PRO version of %s plugin."
+msgstr ""
+"Félicitations! Vous avez installé avec succès la version PRO de l'extension "
+"%s. "
+
+#. %s: plugin name
+#: modules/adminmenu/mod.php:18
+#, php-format
+msgid ""
+"Cool WordPress plugins from woobewoo.com developers. I tried %s - and this "
+"was what I need! #woobewoo.com"
+msgstr ""
+"De chouettes extensions des développers de woobewoo.com . J’ai essayé %s - "
+"et c’était ce dont j’avais besoin ! #woobewoo.com"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:18 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:18
+msgid "Cost"
+msgstr "Coût"
+
+#: modules/adminmenu/mod.php:99
+msgid ""
+"Could you please do me a BIG favor and give it a 5-star rating on WordPress? "
+"Just to help us spread the word and boost our motivation."
+msgstr ""
+"Pourriez-vous s'il vous plaît me faire une GRANDE faveur et lui donner une "
+"note de 5 étoiles sur WordPress? Juste pour nous aider à passer le mot et à "
+"booster notre motivation."
+
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:67 
+#: modules/actions/views/tpl/actionsTabUsers.php:101 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:67
+msgid "Count"
+msgstr "Nombre"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:33 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:33
+msgid "Count of days since registration"
+msgstr "Nombre de jours depuis l’inscription"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:16 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:16
+msgid "Count of purchased products"
+msgstr "Nombre de produits achetés"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:69 
+#: ../wupsales-reward-points-pro/autoactions/mod.php:81 
+#: modules/actions/mod.php:100 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:69
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:81
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:359
+#:  modules/actions/views/tpl/actionsTabUsers.php:252 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:359
+msgid "Count of purchases"
+msgstr "Nombre d’achats"
+
+#: classes/tables/actions.php:15
+msgid "Count users"
+msgstr "Nombre d’utilisateurs"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:26 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:46 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:26
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:46
+msgid "Create new"
+msgstr "Créer un nouveau"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:14 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:14
+msgid ""
+"Create unique levels that users can reach for completed actions, such as the "
+"total amount of purchases, registration, roles and others, and reward them "
+"with a permanent discount"
+msgstr ""
+"Créez des niveaux uniques que les utilisateurs pourront atteindre en "
+"réalisant des actions, comme le montant total de leurs achats, l’inscription,"
+" les rôles et autres, et récompensez-les avec une réduction permanente"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:126 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:126
+msgid "Current level label design"
+msgstr "Apparence du libellé du niveau actuel"
+
+#: classes/tables/details.php:15
+msgid "Current options"
+msgstr "Options courantes"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:34 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:34
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: classes/model.php:177 classes/model.php:194
+msgid "Database error detected"
+msgstr "Erreur de base de donnée détectée"
+
+#: classes/table.php:321 classes/table.php:377
+msgid "Database error. Please contact your developer."
+msgstr "Erreur de base de donnée. Veuillez contacter votre développeur."
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:31
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:21
+#:  modules/actions/views/tpl/actionsTabHistory.php:16 
+#: modules/bonuses/views/tpl/widgetPopup.php:65 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:31
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:21
+msgid "Date"
+msgstr "Date"
+
+#: modules/options/views/tpl/optionsTabMain.php:226
+msgid "Date format"
+msgstr "Format de date"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:79
+msgid "Date of birth"
+msgstr "Date de naissance"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:192 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:194 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:58
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:192
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:194
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:58
+msgid "days"
+msgstr "jours"
+
+#: modules/options/views/tpl/optionsTabMain.php:202
+msgid "days per purchase"
+msgstr "jours par achat"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:66 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:66
+msgid "Days since registration"
+msgstr "Jours depuis l’inscription"
+
+#: classes/html.php:394
+msgid "Default"
+msgstr "Défaut"
+
+#: modules/options/views/tpl/optionsTabMain.php:129
+msgid ""
+"Defines the preferred way to enter points for assigning a reward: the exact "
+"amount, or a percentage of the cost of the product"
+msgstr ""
+"Définit la façon préférée d’entrer les points pour affecter une récompense : "
+"un montant exact ou un pourcentage du prix du produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:31 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:51 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:31
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:51
+msgid "Delete"
+msgstr "Supprimer"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:95
+msgid "delete"
+msgstr "supprimer"
+
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:30 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:30
+msgid "Delete company"
+msgstr "Supprimer une entreprise"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:34 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:34
+msgid "Delete Level"
+msgstr "Supprimer un niveau"
+
+#: modules/actions/models/users.php:356
+msgid "Delete point"
+msgstr "Supprimer un point"
+
+#: modules/actions/views/actions.php:52
+msgid "Delete points"
+msgstr "Supprimer des points"
+
+#: modules/actions/models/actions.php:17 
+#: modules/bonuses/models/transactions.php:30
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: modules/options/mod.php:76
+msgid "Design"
+msgstr "Apparence"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:40 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:40
+#:  modules/bonuses/models/transactions.php:19 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:39
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:39
+msgid "Discount"
+msgstr "Réduction"
+
+#: classes/tables/details.php:9
+msgid "Discount/Product/Cart"
+msgstr "Réduction/Produit/Panier"
+
+#: modules/bonuses_widget/mod.php:18
+msgid "Displays User Rewards"
+msgstr "Afficher les récompenses de l’utilisateur"
+
+#: modules/options/views/tpl/optionsTabMain.php:320
+msgid "Do not take rewards (and not return reward discount)"
+msgstr "Ne pas prendre de points (et ne pas rendre de réduction)"
+
+#: classes/controller.php:184 classes/controller.php:193 
+#: ../wupsales-reward-points-pro/autoactions/controller.php:79 
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:85 
+#: ../wupsales-reward-points-pro/license/controller.php:6 
+#: modules/options/controller.php:6 modules/options/controller.php:22 
+#: modules/options/controller.php:31 modules/actions/controller.php:83 
+#: modules/actions/controller.php:152 modules/actions/controller.php:166 
+#: modules/bonuses/controller.php:72 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/controller.php:79
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:85
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/controller.php:6
+msgid "Done"
+msgstr "Fait"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:17 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:17
+msgid "Dynamics of the customer base"
+msgstr "Évolution de la base client"
+
+#: modules/options/views/tpl/optionsTabMain.php:216
+msgid "Each point has its own expiration date"
+msgstr "Chaque point a sa propre date d’expiration"
+
+#: modules/options/views/tpl/optionsTabMain.php:53
+msgid "Edit"
+msgstr "Modifier"
+
+#: modules/actions/models/actions.php:351
+msgid "Edit action"
+msgstr "Modifier l’action"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:295 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:295
+msgid "Edit company"
+msgstr "Modifier la campagne"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:56 
+#: modules/actions/views/tpl/actionsTabUsers.php:69 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:56
+msgid "Email"
+msgstr "Courriel"
+
+#: modules/options/models/options.php:88
+msgid "Empty data to save option"
+msgstr "Données vides lors de la sauvegarde"
+
+#: classes/model.php:218
+msgid "Empty or invalid ID"
+msgstr "ID invalide ou vide"
+
+#: classes/tables/actions.php:12
+msgid "End Action Date"
+msgstr "Date de fin de l’action"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:45
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:45
+msgid "End date"
+msgstr "Date de fin"
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:9
+msgid "Enter discount"
+msgstr "Entrez la réduction"
+
+#: modules/adminmenu/views/tpl/adminNavPage.php:48
+msgid "Enter product filter name"
+msgstr "Entrez le nom du filtre prodiuit"
+
+#: classes/modInstaller.php:156
+msgid "Error Activate module"
+msgstr "Erreur d’activation du module"
+
+#: classes/modInstaller.php:209
+msgid "Error Activating module"
+msgstr "Erreur d’activation du module"
+
+#: modules/actions/models/actions.php:485
+msgid "Error by sending email"
+msgstr "Erreur à l’envoi du courriel"
+
+#: classes/modInstaller.php:186
+msgid "Error Deactivation module"
+msgstr "Erreur de désactivation du module"
+
+#: modules/adminmenu/models/modules.php:50
+msgid "Error module ID"
+msgstr "Erreur d’ID de module"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:83
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:83
+msgid "Exclude recently changed dates of birth (min 5 days)"
+msgstr "Exclure les dates de naissance récemment changées (min 5 jours)"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:246 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:246
+msgid "Exclude sale"
+msgstr "Exclure les promotions"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:58 
+#: modules/options/views/tpl/optionsTabMain.php:297 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:58
+msgid "Exclude sales items"
+msgstr "Exclure les éléments en promo"
+
+#: modules/bonuses/models/transactions.php:25
+msgid "Expired"
+msgstr "Expiré"
+
+#: classes/tables/actions.php:13 classes/tables/actions.php:14 
+#: classes/tables/transactions.php:13
+msgid "Expired Date"
+msgstr "Date d’expiration"
+
+#: modules/options/views/tpl/optionsTabMain.php:187 
+#: modules/actions/views/tpl/actionsTabUsers.php:124
+msgid "Expiry date"
+msgstr "Date d’expiration"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:55
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:55
+msgid "Expiry days"
+msgstr "Jours avant expiration"
+
+#: classes/tables/modules.php:12
+msgid "External plugin directory"
+msgstr "Répertoire d’extension externe"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:37
+msgid "Filter"
+msgstr "Filtrer"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:29
+msgid "Filter logic"
+msgstr "Logique du filtre"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:44
+msgid "Filter type"
+msgstr "Type de filtre"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:42 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:42
+msgid ""
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+"L’étape finale pour terminer le paramétrage de votre version PRO est "
+"d’entrer votre e-mail et votre clé de licence sur cette page. Ceci activera "
+"votre copie de l’extension sur ce site."
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:40 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:40
+msgid ""
+"Final step to finish Your PRO version setup - is to enter your Username for "
+"codecanyon.net and Purchase code on this page. This will activate Your copy "
+"of software on this site."
+msgstr ""
+"L’utime étape pour finaliser le paramétrage de votre version PRO est "
+"d’entrer votre nom d’utilisateur codecanyon.net et le Code d’achat sur cette "
+"page. Ceci activera votre copie du logiciel sur ce site."
+
+#: modules/bonuses/models/transactions.php:20
+msgid "Fixes"
+msgstr "Corrections"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:141 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:94 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:220 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:141
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:94
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:220
+msgid "Font"
+msgstr "Police"
+
+#: modules/actions/views/actions.php:53
+msgid "For all filtered"
+msgstr "Pour tout les filtrés"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:38
+msgid "for purchases"
+msgstr "pour les achats"
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:28
+msgid ""
+"For the correct and fast operation of product filters and calculation user "
+"rewards, the plugin create the corresponding meta-parameters. These "
+"parameters are automatically updated by editing/creating products and plugin "
+"settings. But if you've edited the products with third-party plugins or "
+"methods and/or noticed that the plugin doesn't work correctly, then click "
+"button Run to force a refresh of the products settings. If you have many "
+"products, the process may take some time."
+msgstr ""
+"Pour le traitement rapide et correct des filtres produit et le calcul des "
+"récompenses utilisateurs, l’extension crée les méta-paramètres "
+"correspondants. Ces paramètres sont automatiquement mis à jour lors de la "
+"création/la modification des produits ou des réglages de l’extension. Mais "
+"si vous avez modifié des produits via des extensions ou des méthodes tierces "
+"et/ou constatez que l’extension ne fonctionne pas correctement, alors "
+"cliquez sur le bonton Lancer pour forcer le rafraîchissement des paramètres "
+"produits. Si vous avez beaucoup de produits, ce processus prendra un certain "
+"temps. "
+
+#: modules/actions/views/tpl/actionsTabUsers.php:80
+msgid ""
+"For the correct and fast operation of user filters and calculation of the "
+"user level, the plugin create the corresponding meta-parameters. These "
+"parameters are automatically updated by editing/creating orders. But if "
+"you've edited the orders with third-party plugins or methods and/or noticed "
+"that the plugin doesn't work correctly, then click this button to force a "
+"refresh of the user's settings. If you have many users, the process may take "
+"some time."
+msgstr ""
+"Pour le traitement rapide et correct des filtres utilisateur et le calcul "
+"des niveaux utilisateurs, l’extension crée les méta-paramètres "
+"correspondants. Ces paramètres sont automatiquement mis à jour lors de la "
+"création/la modification de commandes. Mais si vous avez modifié des "
+"commandes via des extensions ou des méthodes tierces et/ou constatez que "
+"l’extension ne fonctionne pas correctement, alors cliquez sur le bonton "
+"Lancer pour forcer le rafraîchissement des paramètres utilisateurs. Si vous "
+"avez beaucoup d'utilisateurs, ce processus prendra un certain temps. "
+
+#: modules/bonuses/views/tpl/widgetPopup.php:38
+msgid "for the reason"
+msgstr "pour la raison"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:173
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:173
+msgid "From"
+msgstr "Depuis"
+
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:43 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:43
+msgid "from"
+msgstr "depuis"
+
+#: modules/options/views/tpl/optionsTabMain.php:60
+msgid "General"
+msgstr "Général"
+
+#: modules/options/views/tpl/optionsProFeature.php:4 
+#: modules/actions/views/tpl/actionsProFeature.php:4 
+#: modules/bonuses/views/tpl/bonusesProFeature.php:4
+msgid "Get Pro"
+msgstr "Passer Pro"
+
+#: modules/adminmenu/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "Passer"
+
+#: ../wupsales-reward-points-pro/analytics/models/analytics.php:167 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/models/analytics.php:167
+msgid "Green area - reward program activity period"
+msgstr "Surface verte - période d'activité du programme de récompense"
+
+#: classes/tables/products.php:13
+msgid "Group Reward Points"
+msgstr "Points de récompense du groupe"
+
+#: modules/bonuses/mod.php:351
+msgid "Groups"
+msgstr "Groupes"
+
+#. %s: label
+#: modules/adminmenu/mod.php:98
+#, php-format
+msgid "Hey, I noticed you just use %s over a week – that’s awesome!"
+msgstr ""
+"Hé, j'ai remarqué que vous utilisez simplement %s sur une semaine - c'est "
+"génial!"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:51 
+#: modules/actions/mod.php:81 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:51
+msgid "History"
+msgstr "Historique"
+
+#. URI of the plugin
+msgid "https://woobewoo.com/plugins/reward-points-for-woocommerce/"
+msgstr ""
+
+#: modules/adminmenu/mod.php:103
+msgid "I already did"
+msgstr "Déjà fait"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:20
+#:  modules/actions/views/tpl/actionsTabUsers.php:66 
+#: modules/actions/views/tpl/actionsTabHistory.php:15 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:17 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:20
+msgid "Id"
+msgstr "ID"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainGeneral.php:8
+#:  modules/options/views/tpl/optionsTabMain.php:148 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainGeneral.php:8
+msgid ""
+"If a product has a certain number of points, and a group that will include "
+"the same product has a different value, then you can determine which value "
+"to use for such cases"
+msgstr ""
+"Si un produit a un certain nombre de points, et qu'un groupe incluant le "
+"même produit en a un nombre différent, vous pouvez déterminer quelle valeur "
+"utiliser dans un tel cas. "
+
+#: modules/options/views/tpl/optionsTabMain.php:310
+msgid ""
+"If at the time of returning the goods, the client does not have enough "
+"Bonuses on the Bonus account to write off the amount previously accrued for "
+"the purchase and spent by the client, then: If \"Write off the rest\" is "
+"selected, the maximum possible number of bonuses will be written off; If "
+"\"Do not take bonuses (and not return bonus discount)\" is selected, then "
+"the bonuses accrued for the returned goods will not be deducted under any "
+"circumstances when returning the goods"
+msgstr ""
+"Si lors de retours produits, le client n’a pas assez de points sur son "
+"compte de récompense pour prélever le montant précédemment accordé pour "
+"l’achat et dépensé par le client, alors : si \"Prélever le reste\" est "
+"sélectionné, le maximum possible de points seront prélevés; si \"Ne pas "
+"prendre de points (et ne pas rendre de réduction)\" est sélectionné, alors "
+"les points acquis pour les biens retournés ne seront pas déduits lors de "
+"retours produits"
+
+#: modules/options/views/tpl/optionsTabMain.php:67
+msgid ""
+"If the option is enabled, a field will be added to all program participants "
+"in their personal balance account, in the Settings section, asking them to "
+"enter their age. This will give you the option to limit company "
+"participation by age and will also help you use the Birthday trigger and Age "
+"condition for auto-action company planning in the future"
+msgstr ""
+"Si l’option est activé, un champ sera ajouté à pour les participants du "
+"programme dans le solde de leur personnel, dans la section Réglages, leur "
+"demandant de définir leur âge. Ceci vous donnera la possibilité de limiter "
+"l’âge de participation et vous permettra également d’utiliser le déclencheur "
+"Anniversaire et la condition d’âge pour des actions automatiques dans le "
+"futur"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:65 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:65
+msgid ""
+"If the option is enabled, the balance will be displayed in the place "
+"specified by the shortcode"
+msgstr ""
+"Si cette option est activée, le solde sera affiché à l'endroit défini par le "
+"code court"
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:8
+msgid ""
+"If the product is variable, you can set a reward for each variation "
+"separately. The value set by the variation takes precedence over the value "
+"set by the variable product"
+msgstr ""
+"Si c’est un produit à variations, vous pouvez définir une récompense "
+"spécifique pour chaque variation . La valeur définie pour la variation prend "
+"la précédence sur la valeur définie pour le produit à variation."
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:57 
+#: modules/options/views/tpl/optionsTabMain.php:296 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:57
+msgid ""
+"If this option is enabled, discounted items will be excluded from the cart "
+"amount calculation"
+msgstr ""
+"Si cette option est activée, les éléments avec réduction seront exclus du "
+"calcul du montant du panier "
+
+#: modules/options/views/tpl/optionsTabMain.php:207
+msgid ""
+"If “Update when adding new ones” is selected, then each new purchase made by "
+"the user will reset the expiration timer to the value specified in the "
+"\"Reward expiry date\" option. If \"Each point has its own expiration date\" "
+"is selected, each point accrual will have its own expiration date, "
+"regardless of purchases made"
+msgstr ""
+"Si \"Mettre à jour à chaque ajout\" est sélectionné, alors chaque nouvel "
+"achat de l’utilisateur réinitialisera le décompte temporel à la valeur "
+"définie dans l’option \"Date d’expiration de la récompense\". Si \"Chaque "
+"point a sa propre date d’expiration\" est selectionné, alors chaque "
+"acquisition de point aura sa propre date d’expiration, indépendamment de "
+"tout nouvel achat"
+
+#: classes/model.php:180
+msgid "Invalid ID"
+msgstr "ID invalide"
+
+#: classes/modInstaller.php:120
+msgid "Invalid XML file"
+msgstr "Fichier XML invalide"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:102
+msgid "Join reward program"
+msgstr "Rejoindre le programme de récompense"
+
+#: classes/tables/modules.php:7
+msgid "Label"
+msgstr "Libellé"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:29 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:29
+msgid "Last 7 days"
+msgstr "7 derniers jours"
+
+# À contrôler
+#: modules/actions/mod.php:102 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:395
+#:  modules/actions/views/tpl/actionsTabUsers.php:288 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:395
+msgid "Last active"
+msgstr "Dernière activité"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:30 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:30
+msgid "Last Month"
+msgstr "Mois dernier"
+
+#: modules/actions/mod.php:101 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:375
+#:  modules/actions/views/tpl/actionsTabUsers.php:268 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:375
+msgid "Last order"
+msgstr "Dernière commande"
+
+#: classes/tables/users.php:16
+msgid "Last Order Date"
+msgstr "Date de la dernière commande"
+
+#: classes/tables/users.php:11
+msgid "Last update for birthday "
+msgstr "Dernière mise à jour de l’anniversaire"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:32 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:32
+msgid "Last Year"
+msgstr "Année dernière"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:274 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:301 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:274
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:301
+msgid "Left"
+msgstr "Gauche"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:10
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:10
+msgid "Level"
+msgstr "Niveau"
+
+#: modules/bonuses/models/details.php:11
+msgid "Level reward"
+msgstr "Récompense de niveau"
+
+#: ../wupsales-reward-points-pro/license/mod.php:35 
+#: ../wupsales-reward-points-pro/license/mod.php:99 
+#: ../wupsales-reward-points-pro/license/mod.php:118 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:35 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:99 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:118
+msgid "License"
+msgstr "Licence"
+
+#. %1: plugin name 2: count days
+#: ../wupsales-reward-points-pro/license/models/license.php:224 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/models/license.php:224
+#, php-format
+msgid "License for plugin %1$s will expire in %2$d days."
+msgstr "La licence de l’extension %1$s expirera dans %2$d jours."
+
+#. %s: plugin name
+#: ../wupsales-reward-points-pro/license/models/license.php:218 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/models/license.php:218
+#, php-format
+msgid "License for plugin %s will expire today."
+msgstr "La licence de l’extension %1$s expire aujourd’hui."
+
+#. %s: plugin name
+#: ../wupsales-reward-points-pro/license/models/license.php:221 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/models/license.php:221
+#, php-format
+msgid "License for plugin %s will expire tomorrow."
+msgstr "La licence de l’extension %1$s expirera demain."
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:96 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:96
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:56 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:56
+msgid "Loading"
+msgstr "Chargement"
+
+#: modules/options/views/tpl/optionsTabMain.php:173
+msgid "Logging"
+msgstr "Journalisation"
+
+#: modules/actions/models/actions.php:327 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:161
+#:  ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:99 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:106 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:161
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:99
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:106
+msgid "Logic"
+msgstr "Logique"
+
+#: modules/options/views/tpl/optionsTabMain.php:208
+msgid "Logic expiry date"
+msgstr "Logique de la date d’expiration"
+
+#: modules/options/mod.php:69
+msgid "Main"
+msgstr "Principal"
+
+#: classes/tables/products.php:8
+msgid "Main product"
+msgstr "Produit principal"
+
+#: modules/actions/models/actions.php:9 
+#: modules/bonuses/models/transactions.php:16
+msgid "Manual"
+msgstr "Manuel"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:93
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:197
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:93
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:197
+msgid "Max amount"
+msgstr "Montant max"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:75
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:135
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:218
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:75
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:135
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:218
+msgid "Max days"
+msgstr "Jours max"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:105
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:207
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:105
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:207
+msgid "Max purchases"
+msgstr "Achat max"
+
+#: modules/options/views/tpl/optionsTabMain.php:253
+msgid "Max to pay by points"
+msgstr "Maximum à payer par point"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:11 
+#: modules/options/views/tpl/optionsTabMain.php:281 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:11
+msgid "Max value BP for 1 cart"
+msgstr "Nombre de PR max pour un panier"
+
+#. %s: min_age_user
+#: modules/bonuses/views/tpl/widgetPopup.php:96
+#, php-format
+msgid "Members of the reward program can only be persons over %s years old"
+msgstr ""
+"Les membres du programme de recompense peuvent uniquement être des personnes "
+"âgées de plus de %s ans"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:246
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:273
+#:  modules/actions/views/tpl/actionsTabUsers.php:138 
+#: modules/actions/views/tpl/actionsTabUsers.php:165 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:246
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:273
+msgid "Message"
+msgstr "Message"
+
+#: modules/options/views/tpl/optionsTabMain.php:79
+msgid "Min age"
+msgstr "Âge minimal"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:89
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:193
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:89
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:193
+msgid "Min amount"
+msgstr "Montant min"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:36 
+#: modules/options/views/tpl/optionsTabMain.php:289 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:36
+msgid "Min amount cart"
+msgstr "Montant de panier minimal"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:71
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:131
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:214
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:71
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:131
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:214
+msgid "Min days"
+msgstr "Jours min"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:101
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:203
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:101
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:203
+msgid "Min purchases"
+msgstr "Achats min"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:121
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:121
+msgid "Minutes"
+msgstr "Minutes"
+
+#: modules/adminmenu/models/modules.php:46
+msgid "Module Update Failed"
+msgstr "Échec de la mise à jour du module"
+
+#: modules/adminmenu/models/modules.php:33
+msgid "Module Updated"
+msgstr "Module mis à jour"
+
+#: modules/actions/models/users.php:357
+msgid "More info"
+msgstr "Plus d’information"
+
+#: modules/adminmenu/mod.php:20
+msgid "More plugins for your WordPress site here!"
+msgstr "Plus d’extension pour votre site wordPress par ici!"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:23 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:23
+msgid "Most purchased product for rewards"
+msgstr "Produits avec récompense les plus achetés"
+
+#: classes/field.php:132 classes/field.php:143 classes/field.php:148
+msgid "N/A"
+msgstr "N/A"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:39 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:58 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:42 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:61 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:59 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:78 
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:66 
+#: modules/actions/views/tpl/actionsTabUsers.php:67 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:18 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:39
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:58
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:42
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:61
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:59
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:78
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:66
+msgid "Name"
+msgstr "Nom"
+
+#: modules/options/views/tpl/optionsTabMain.php:93
+msgid "Name one point"
+msgstr "Nom pour un point"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:65 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:65
+msgid "New user"
+msgstr "Nouvel utilisateur"
+
+#: classes/modInstaller.php:115
+msgid "No modules were found in XML file"
+msgstr "Aucun module trouvé dans le fichier XML"
+
+#: classes/modInstaller.php:123
+msgid "No XML file were found"
+msgstr "Aucun fichier XML trouvé"
+
+#: modules/adminmenu/mod.php:102
+msgid "Nope, maybe later"
+msgstr "Non, peut-être plus tard"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:71 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:71
+msgid "Not active user (no orders for days)"
+msgstr "Utilisateurs inactifs (aucune commande depuis longtemps)"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:82 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:82
+msgid "Not active users"
+msgstr "Utilisateurs inactifs"
+
+#: classes/table.php:331
+msgid "Nothing to insert"
+msgstr "Rien à insérer"
+
+#: classes/table.php:302
+msgid "Nothing to update"
+msgstr "Rien à mettre à jour"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:119
+msgid "now"
+msgstr "maintenant"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:34 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:34
+#:  
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:201 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:75
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:201
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:75
+msgid "Number of purchases"
+msgstr "Nombre d’achats"
+
+#: classes/tables/products.php:12
+msgid "Number of the group"
+msgstr "Nombre du groupe"
+
+#: modules/adminmenu/mod.php:101
+msgid "Ok, you deserve it"
+msgstr "Ok, vous le méritez"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:261 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:261
+msgid "on image"
+msgstr "sur l’image"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:11
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:11
+msgid ""
+"Only active auto-action companies will be shown. Check out <a href=\"https:"
+"//woobewoo.com/documentation/setting-up-a-new-auto-action-company/\">this "
+"article</a> to learn more about configuring auto actions."
+msgstr ""
+"Seules les campagnes à actions automatiques seront affichées. Consultez <a "
+"href=\"https://woobewoo.com/documentation/setting-up-a-new-auto-action-"
+"company/\">cet article</a> pour en savoir plus sur la configuration des "
+"actions automatiques."
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:246 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:246
+msgid "Only sale product"
+msgstr "Uniquement les produits en promo"
+
+#: modules/actions/views/tpl/actionsTabHistory.php:7
+msgid "Only those accruals that have already taken place will be shown"
+msgstr "Seules les acquisitions effectives seront affichées"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:92 
+#: modules/bonuses/views/tpl/widgetPopup.php:67
+msgid "Operation"
+msgstr "Opération"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:164
+#:  ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:7 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:8 
+#: modules/actions/views/tpl/actionsTabUsers.php:6 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:164
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:7
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:8
+msgid "OR"
+msgstr "OU"
+
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:27
+msgid "Order"
+msgstr "Commande"
+
+#. Description of the plugin
+msgid ""
+"Organization of the loyalty program of the bonus system for Woocommerce "
+"stores"
+msgstr ""
+"Organisation du programme de fidélisation par système de bonus pour les "
+"boutiques Woocommerce"
+
+#: classes/tables/actions.php:18
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr "Paramètres"
+
+#: modules/options/views/tpl/optionsTabMain.php:245
+msgid "Pay Settings"
+msgstr "Réglages du paiement"
+
+# À contrôler
+#: modules/options/views/tpl/optionsTabMain.php:130
+msgid "Percent reward points"
+msgstr "Points de récompense en pourcentage"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:21 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:21
+msgid "Percentage of purchases earning points"
+msgstr "Pourcentage d'achats avec gain de points"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:20 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:20
+msgid "Percentage of purchases with spent points"
+msgstr "Pourcentage d'achats avec dépense de points"
+
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:36 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:36
+msgid "Period"
+msgstr "Période"
+
+#: modules/options/views/tpl/optionsTabMain.php:27
+msgid ""
+"Place the widget of the Balance (Personal Account of the member of the "
+"Reward system) by adding this shortcode anywhere on your site or via "
+"standard WordPress widgets (Appearance->Widget)"
+msgstr ""
+"Positionnez le widget de Solde (Compte personnel du membre du système de "
+"récompense) en ajoutant de code court n’importe où sur le site ou via les "
+"widgets standards de WordPress (Apparrence->Widget)"
+
+#. %s url
+#: modules/options/views/tpl/optionsProFeature.php:4 
+#: modules/actions/views/tpl/actionsProFeature.php:4 
+#: modules/bonuses/views/tpl/bonusesProFeature.php:4
+#, php-format
+msgid ""
+"Please be advised that this feature available only in PRO version. You can "
+"%s today and have all PRO features of plugin!"
+msgstr ""
+"Veuillez noter que cette fonction est uniquement valable dans la version PRO."
+" Vous pouvez %s aujourd’hui et obtenir toutes les fonctionnalités PRO de "
+"cette extension !"
+
+#: ../wupsales-reward-points-pro/license/models/license.php:64 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/models/license.php:64
+msgid "Please enter your Email address"
+msgstr "Veuillez renseigner votre courriel"
+
+#: ../wupsales-reward-points-pro/license/models/license.php:61 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/models/license.php:61
+msgid "Please enter your License Key"
+msgstr "Veuillez renseigner votre clé de licence"
+
+#: modules/options/views/tpl/optionsAdmin.php:7
+msgid "Plugin Settings"
+msgstr "Réglages de l’extension"
+
+#: modules/options/views/tpl/optionsTabMain.php:109
+msgid "Plural name"
+msgstr "Nom au pluriel"
+
+#: classes/tables/actions.php:10 classes/tables/transactions.php:10
+msgid "Poins"
+msgstr "Points"
+
+#: modules/options/mod.php:108 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:88 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:88
+msgid "Point"
+msgstr "Point"
+
+#: modules/options/mod.php:109 classes/tables/details.php:14 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:34
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:24
+#:  ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:41 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:61 
+#: modules/actions/views/tpl/actionsTabUsers.php:70 
+#: modules/actions/views/tpl/actionsTabHistory.php:19 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:19 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:34
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:24
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:41
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:61
+msgid "Points"
+msgstr "Points"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:93 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:78 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:91 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:97 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:41 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:93
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:78
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:91
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:97
+msgid "points"
+msgstr "points"
+
+#: modules/bonuses/models/bonuses.php:106 
+#: modules/bonuses/models/bonuses.php:117
+msgid "Points per purchase"
+msgstr "Points par achat"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:260
+#:  modules/actions/views/tpl/actionsTabUsers.php:152 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:260
+msgid "Preview email"
+msgstr "Prévisuliser le courriel"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:287
+#:  modules/actions/views/tpl/actionsTabUsers.php:179 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:287
+msgid "Preview popup"
+msgstr "Prévisuliser la fenêtre surgissante"
+
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:78 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:78
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:221 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:221
+msgid "Price"
+msgstr "Prix"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainGeneral.php:9
+#:  modules/options/views/tpl/optionsTabMain.php:149 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainGeneral.php:9
+msgid "Priority groups"
+msgstr "Priorité des groupes"
+
+#: classes/html.php:384 modules/adminmenu/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "PRO"
+
+#: modules/bonuses/models/details.php:9
+msgid "Product"
+msgstr "Produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainGeneral.php:20
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainGeneral.php:20
+msgid "product"
+msgstr "produit"
+
+#: classes/tables/details.php:10
+msgid "Product Id / Transaction Id"
+msgstr "ID de produit/transaction"
+
+#: classes/tables/products.php:9
+msgid "Product point"
+msgstr "Point produit"
+
+#: classes/tables/products.php:10
+msgid "Product price"
+msgstr "Prix produit"
+
+#: classes/tables/products.php:11
+msgid "Product Reward Points"
+msgstr "Points de récompense du produit"
+
+#: modules/bonuses/controller.php:42
+msgid "Product's point saved"
+msgstr "Ponits du produit sauvegardé"
+
+#: modules/bonuses/mod.php:345 
+#: modules/actions/views/tpl/actionsTabUsers.php:385
+msgid "Products"
+msgstr "Produits"
+
+#: modules/bonuses/controller.php:72
+msgid "Products points recalculated"
+msgstr "Points produits recalculés"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:15 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:15
+msgid "Profit"
+msgstr "Bénéfice"
+
+#: modules/bonuses/models/transactions.php:18 
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:24 
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:43
+msgid "Purchase"
+msgstr "Achat"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:94 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:94
+msgid "Purchase code"
+msgstr "Code d'achat"
+
+#: classes/tables/details.php:12
+msgid "Purchase currency"
+msgstr "Devise d’achat"
+
+#: classes/tables/details.php:13
+msgid "Purchase quantity"
+msgstr "Quantité achetée"
+
+#: classes/tables/details.php:11
+msgid "Purchase sum"
+msgstr "Somme d’achats"
+
+#: ../wupsales-reward-points-pro/analytics/models/analytics.php:331 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/models/analytics.php:331
+msgid "Purchases partially or fully paid with reward points"
+msgstr "Achats payés pour tout ou partie avec des points"
+
+#: ../wupsales-reward-points-pro/analytics/models/analytics.php:335 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/models/analytics.php:335
+msgid "Purchases that earn points"
+msgstr "Achats avec gain de points"
+
+#: ../wupsales-reward-points-pro/analytics/models/analytics.php:334 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/models/analytics.php:334
+msgid "Purchases without earning points"
+msgstr "Achats sans gain de points"
+
+#: ../wupsales-reward-points-pro/analytics/models/analytics.php:330 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/models/analytics.php:330
+msgid "Purchases without paying with reward points"
+msgstr "Achats payés sans usage de points"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:155 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:112 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:238 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:281 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:291 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:308 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:318 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:155
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:112
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:238
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:281
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:291
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:308
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:318
+msgid "px"
+msgstr "px"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:40 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:68 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:40
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:68
+msgid "Range"
+msgstr "Intervalle"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:141 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:141
+msgid "Re-activate"
+msgstr "Ré-activer"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:22
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:34
+#:  modules/actions/views/tpl/actionsTabHistory.php:18 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:22
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:34
+msgid "Reason"
+msgstr "Raison"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:36
+#:  modules/actions/views/tpl/actionsTabUsers.php:106 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:36
+msgid "Reason (max 50 symbols)"
+msgstr "Raison (50 car. max)"
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:26
+msgid "Recacl products points"
+msgstr "Recalculer les points produits"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:78
+msgid "Recacl users balance"
+msgstr "Recalculer le solde des utilisateurs"
+
+#: modules/actions/views/tpl/actionsAdmin.php:29
+msgid "Recalc balance"
+msgstr "Recalculer le solde"
+
+#: modules/bonuses/views/tpl/bonusesAdmin.php:34
+msgid "Recalc points"
+msgstr "Recalculer les points"
+
+#: ../wupsales-reward-points-pro/analytics/models/analytics.php:167 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/models/analytics.php:167
+msgid "Red area - reward program is not activity period"
+msgstr "Surface rouge - période d'inactivité du programme de récompense"
+
+#: modules/bonuses/models/transactions.php:28
+msgid "Refund"
+msgstr "Remboursé"
+
+#: modules/options/views/tpl/optionsTabMain.php:306
+msgid "Refund Settings"
+msgstr "Réglages de remboursement"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:105
+msgid "Refuse to participate"
+msgstr "Refuser de participer"
+
+#: modules/actions/models/users.php:10 modules/actions/models/users.php:351
+msgid "Refused"
+msgstr "Refusé"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:78 
+#: modules/actions/mod.php:97 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:78
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:311
+#:  
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:186 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:58
+#:  modules/actions/views/tpl/actionsTabUsers.php:204 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:311
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:186
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:58
+msgid "Registration"
+msgstr "Inscription"
+
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:26 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:26
+msgid "Report type"
+msgstr "Type de rapport"
+
+#: modules/bonuses/models/transactions.php:26
+msgid "Reserved"
+msgstr "Réservé"
+
+#: modules/options/views/tpl/optionsTabMain.php:48
+msgid "Reset to default"
+msgstr "Réinitialiser"
+
+# À contrôler:reste/repos/attente?
+#: classes/tables/transactions.php:11
+msgid "Rest"
+msgstr "Reste"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:44 
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:11
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:44
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:11
+msgid "Reward"
+msgstr "Récompense"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:71 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:71
+msgid "Reward bonus"
+msgstr "Récompense bonus"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:84 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:84
+msgid "Reward discount"
+msgstr "Réduction de récompense"
+
+#: modules/options/views/tpl/optionsTabMain.php:192
+msgid "Reward expiry date"
+msgstr "Date d’expiration de la récompense"
+
+#: classes/tables/products.php:14 classes/tables/users.php:12
+msgid "Reward Points"
+msgstr "Points de récompense"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:84 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:84
+msgid "Reward points"
+msgstr "Points de récompense"
+
+#: modules/bonuses/controller.php:89
+msgid "Reward points has been activated"
+msgstr "Les points de récompense ont été activés"
+
+#: modules/bonuses/controller.php:52
+msgid "Reward points saved"
+msgstr "Points de récompense enregistrés"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:19 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:19
+msgid "Reward program conversion (returnability)"
+msgstr "Conversions du programme de récompense (revenus)"
+
+#: modules/options/views/tpl/optionsTabMain.php:12
+msgid "Reward program is active"
+msgstr "Le programme de récompense est activé"
+
+#: modules/options/views/tpl/optionsTabMain.php:20
+msgid "Reward program is not active"
+msgstr "Le programme de récompense n’est pas activé"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:84 
+#: modules/actions/mod.php:96 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:84
+#:  modules/actions/views/tpl/actionsTabUsers.php:68
+msgid "Role"
+msgstr "Rôle"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:225
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:55
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:225
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:55
+msgid "Roles"
+msgstr "Rôles"
+
+#: modules/options/mod.php:110
+msgid "RP"
+msgstr "PR"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:86
+msgid "Rules for the use of reward points"
+msgstr "Règles d’usage des points de récompense"
+
+#: modules/options/views/tpl/optionsTabMain.php:44
+msgid "Rules page"
+msgstr "Page des règles"
+
+#: modules/actions/views/actions.php:50 modules/bonuses/views/bonuses.php:166 
+#: modules/options/views/tpl/optionsTabMain.php:22
+msgid "Run"
+msgstr "Lancer"
+
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:79 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:79
+msgid "Sale"
+msgstr ""
+"En promo\n"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:239 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:239
+msgid "Sale price"
+msgstr "Prix promo"
+
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:31 
+#: modules/actions/views/actions.php:54 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:31
+#:  modules/options/views/tpl/optionsAdmin.php:29 
+#: modules/bonuses/views/tpl/bonusesAdmin.php:29 
+#: modules/bonuses/views/tpl/widgetPopup.php:82
+msgid "Save"
+msgstr "Enregistrer"
+
+#: modules/options/views/tpl/optionsTabMain.php:172
+msgid "Save debug messages to the WooCommerce SystemStatus Log"
+msgstr "Enregistrer les messages de debug dans le journal WooCommerce"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:121
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:121
+msgid "Seconds"
+msgstr "Secondes"
+
+#: classes/req.php:28 classes/req.php:139 classes/req.php:170
+msgid "Security check"
+msgstr "Vérification de sécurité"
+
+#: modules/actions/mod.php:115
+msgid "Select attribute"
+msgstr "Sélectionner un attribut"
+
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:24 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:24
+msgid "Select company"
+msgstr "Sélectionner une campagne"
+
+#: classes/html.php:294
+msgid "Select File"
+msgstr "Sélectionner un fichier"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:47 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:165 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:47
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:165
+msgid "Select icon"
+msgstr "Sélectionne une icône"
+
+#: classes/tables/transactions.php:16 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:238
+#:  modules/actions/views/tpl/actionsTabUsers.php:130 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:238
+msgid "Send email"
+msgstr "Envoyer le courriel"
+
+#: modules/options/views/tpl/optionsTabMain.php:68
+msgid "Set an age limit"
+msgstr "Définir un âge limite"
+
+#: modules/bonuses/mod.php:323 modules/bonuses/views/bonuses.php:161 
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:37 
+#: modules/bonuses/views/tpl/bonusesAdmin.php:7
+msgid "Set points"
+msgstr "Gérer les points"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:31 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:31
+msgid ""
+"Set rewards for products included in groups consisting of specified multi-"
+"level conditions. Click \"Create new\" after that add the necessary "
+"conditions to it and specify the logic between them. If the same product is "
+"included in different groups, you can set the priority between groups using "
+"the drag and drop method"
+msgstr ""
+"Définissez des récompenses pour des produits inclus dans des groupes "
+"consistant en des conditions spécifiques multi-niveaux. Cliquez sur \"Créer "
+"un nouveau\" après avoir ajouté les conditions nécessaires et avoir précisé "
+"la logique entre elles. Si un même produit est inclus dans plusieurs groupes,"
+" vous pouvez définir la priorité entre groupes en utilisant le glisser-"
+"déposer."
+
+#: modules/options/views/tpl/optionsTabMain.php:191
+msgid ""
+"Set the expiration date for the points that customers receive for purchases. "
+"For already received points, the setting will not be applied"
+msgstr ""
+"Définit la date d’expiration des points que les clients reçoivent pour leurs "
+"achats. Pour les points déjà reçus, ce réglage ne sera pas appliqué"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:93 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:93
+msgid "Set the font for the balance widget"
+msgstr "Définissez la police pour le widget de solde"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:219 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:219
+msgid "Set the font for the product bage"
+msgstr "Définissez la police pour la page produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:10 
+#: modules/options/views/tpl/optionsTabMain.php:280 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:10
+msgid "Set the maximum amount of points that can be used for one cart"
+msgstr ""
+"Définit le nombre maximal de points qui peuvent être utilisés dans un panier"
+
+#: modules/options/views/tpl/optionsTabMain.php:252
+msgid ""
+"Set the maximum percentage of the cart amount that can be paid with Reward "
+"points"
+msgstr ""
+"Définit le poucetage maximal du montant du panier qui peut être payé avec "
+"des points de récompense"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:35 
+#: modules/options/views/tpl/optionsTabMain.php:288 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabMainPay.php:35
+msgid "Set the minimum amount of the cart to be able to use the points"
+msgstr ""
+"Définit le montant minimal de panier à partir duquel les points sont "
+"utilisables"
+
+#: modules/options/mod.php:41 modules/adminmenu/mod.php:19 
+#: modules/bonuses/views/bonuses.php:281
+msgid "Settings"
+msgstr "Réglages"
+
+#: modules/bonuses/views/bonuses.php:247
+msgid "Shop"
+msgstr "Acheter"
+
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:28 
+#: ../wupsales-reward-points-pro/analytics/views/analytics.php:25 
+#: modules/actions/views/actions.php:48 modules/bonuses/views/bonuses.php:159 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:255 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:28
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/analytics.php:25
+#:  modules/bonuses/views/tpl/widgetPopup.php:57 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:255
+msgid "Show"
+msgstr "Afficher"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:11
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:11
+msgid "Show active"
+msgstr "Afficher uniquement celles actives"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:66 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:66
+msgid "Show balance"
+msgstr "Afficher le solde"
+
+#: modules/actions/views/tpl/actionsTabHistory.php:7
+msgid "Show completed"
+msgstr "Afficher les terminés"
+
+#: classes/tables/transactions.php:17 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:265
+#:  modules/actions/views/tpl/actionsTabUsers.php:157 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:265
+msgid "Show popup"
+msgstr "Afficher la fenêtre surgissante"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:184 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:184
+msgid "Show reward points"
+msgstr "Afficher les points de récompense"
+
+#: modules/bonuses/views/tpl/bonusesTabProducts.php:8
+msgid "Show variations"
+msgstr "Afficher les variations"
+
+#: modules/actions/views/actions.php:49 modules/bonuses/views/bonuses.php:160
+msgid "Showing"
+msgstr "Affichage"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:148 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:105 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:231 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:148
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:105
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:231
+msgid "Size"
+msgstr "Taille"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:79 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:79
+msgid "Specify the background color for the balance widget"
+msgstr "Définissez la couleur d'arrière-plan du widget de solde"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:205 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:205
+msgid "Specify the background color for the product bage"
+msgstr "Définissez la couleur de fond pour le badge produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:254 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:254
+msgid "Specify where exactly to show the product badge"
+msgstr "Définissez où exactement afficher le badge produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:183 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:183
+msgid ""
+"Specify whether to display the exact number of points received for this "
+"product"
+msgstr ""
+"Définissez si vous souhaitez afficher le nombre exact de points reçus pour "
+"ce produit"
+
+#: modules/bonuses/models/transactions.php:24
+msgid "Spent"
+msgstr "Dépensé"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:297 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:297
+msgid "Start company"
+msgstr "Démarrer la campagne"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:296 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:296
+msgid "Start for better position on product page"
+msgstr "Définissez le positionnement précis sur la page produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:269 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:269
+msgid "Start for better position on shop page"
+msgstr "Définissez le positionnement précis sur la page boutique"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:297 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:297
+msgid "Start for product page"
+msgstr "Position sur la page produit"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:270 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:270
+msgid "Start for shop page"
+msgstr "Position sur la page boutique"
+
+#: classes/tables/actions.php:16 classes/tables/users.php:8 
+#: classes/tables/transactions.php:18 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:25
+#:  modules/actions/views/tpl/actionsTabHistory.php:17 
+#: modules/bonuses/views/tpl/widgetPopup.php:66 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:25
+msgid "Status"
+msgstr "État"
+
+#: modules/options/views/tpl/optionsTabMain.php:14
+msgid "Stop"
+msgstr "Arrêter"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:296 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:296
+msgid "Stop company"
+msgstr "Arrêter la campagne"
+
+#: modules/actions/models/actions.php:16
+msgid "Stopped"
+msgstr "Arrêté"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:242
+#:  modules/actions/views/tpl/actionsTabUsers.php:134 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:242
+msgid "Subject"
+msgstr "Sujet"
+
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:68 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:68
+msgid "Sum"
+msgstr "Somme"
+
+#: modules/adminmenu/views/tpl/adminFooter.php:15
+msgid "Support"
+msgstr "Assistance"
+
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:76 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:76
+#:  
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:185 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:185
+msgid "Tag"
+msgstr "tiquette"
+
+#: modules/actions/views/tpl/actionsTabUsers.php:349
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:60 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:60
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: modules/actions/models/actions.php:122
+msgid "The action already completed or deleted"
+msgstr "Action déjà terminée ou supprimée"
+
+#: modules/actions/models/actions.php:127
+msgid "The action has empty points"
+msgstr "Cette action a un nombre de points vide"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:418 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:418
+msgid "The company can not be edited in the Deleted status"
+msgstr "La campagne ne peut être modifiée à l’état Supprimée"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:395 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:395
+msgid "The company can only be edited in the Stopped status"
+msgstr "La campagne ne peut être modifiée que dans l’état Arrêtée"
+
+#: modules/actions/models/actions.php:71
+msgid "The Expiry date cannot be less than the Action date"
+msgstr "La date d’expiration ne peut être antérieure à la date d’action"
+
+#: modules/actions/models/actions.php:51
+msgid "The field Action date: format error"
+msgstr "Champ Date de l’action: erreur de format"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:378 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:378
+msgid "The field Add reward points not filled"
+msgstr "Le champ Ajouter des points n’est pas renseigné"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:367 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:367
+msgid "The field Begin date: format error"
+msgstr "Champ date de début: erreur de format"
+
+#: modules/actions/models/actions.php:43
+msgid "The field Count not filled"
+msgstr "Le champ Nombre n’est pas renseigné"
+
+#: modules/actions/models/users.php:531
+msgid "The field Date of birth: format error"
+msgstr "Champ Date de naissance: erreur de format"
+
+#: modules/actions/models/actions.php:67
+msgid "The field Expiry date: format error"
+msgstr "Champ Date d’d'expiration: erreur de format"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:357 
+#: modules/actions/models/actions.php:35 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:357
+msgid "The field Reason must be a maximum of 50 characters"
+msgstr "Le champ Raison doit avoir 50 car. max"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:353 
+#: modules/actions/models/actions.php:31 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:353
+msgid "The field Reason not filled"
+msgstr "Le champ raison n’est pas renseigné"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:385 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:385
+msgid "The field Trigger not filled"
+msgstr "Le champ déclencheur n’est pas renseigné"
+
+#: modules/options/views/tpl/optionsTabMain.php:43
+msgid ""
+"The rules for participation in the Reward system are generated automatically "
+"based on the set settings, but you can also edit them or, in which case, "
+"restore the default value"
+msgstr ""
+"Les règles de participation du système de récompense sont générées "
+"automatiquement en fonction des réglages, mais vous pouvez également les "
+"modifier ou, si besoin, les réinitialiser"
+
+#: ../wupsales-reward-points-pro/license/models/license.php:191 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/models/license.php:191
+msgid ""
+"There was a problem with sending request to our autentification server. "
+"Please try latter."
+msgstr ""
+"Un problème est survenu lors de l’envoi de la requête à notre serveur "
+"d’authentification. Veuillez réessayer plus tard."
+
+#: modules/actions/models/actions.php:91
+msgid "This action already completed or deleted"
+msgstr "Action déjà terminée ou supprimée"
+
+#: ../wupsales-reward-points-pro/license/mod.php:34 
+#: ../wupsales-reward-points-pro/license/mod.php:93 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:34 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:93
+msgid "this link"
+msgstr "ce lien"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:31 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:31
+msgid "This Month"
+msgstr "Ce mois"
+
+#: modules/options/views/tpl/optionsTabMain.php:91
+msgid ""
+"This name will be used everywhere on the front of your store where the "
+"points name is involved"
+msgstr ""
+"Ce nom sera affiché sur votre boutique lorsque le nom des points sera utilisé"
+
+#: modules/options/views/tpl/optionsTabMain.php:225
+msgid ""
+"This option controls the date format in the entire Reward system interface "
+"on the front.  For example, for a counter that is located in the users "
+"balance widget and shows when the points expire, or to enter the users age, "
+"etc"
+msgstr ""
+"Cette option contrôle le format de la date dans toute l’interface du système "
+"de récompense sur votre boutique. Par exemple, pour un compteur localisé "
+"dans le widget de solde des clients qui affiche quand les points expirent, "
+"ou pour entrer l’âge des utilisateurs, etc…"
+
+#: ../wupsales-reward-points-pro/analytics/mod.php:33 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/mod.php:33
+msgid "This Year"
+msgstr "Cette année"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:70 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:70
+msgid "Time spent on site (for session)"
+msgstr "Temps passé sur le site (par session)"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:113
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:113
+msgid "Timeout"
+msgstr "Durée"
+
+#: classes/tables/actions.php:8 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:269
+#:  modules/actions/views/tpl/actionsTabUsers.php:161 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:269
+msgid "Title"
+msgstr "Titre"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:177
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:177
+msgid "To"
+msgstr ""
+"À\n"
+
+#: ../wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:47 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/tpl/analyticsAdmin.php:47
+msgid "to"
+msgstr "à"
+
+#. 1: plugin name, 2: subscriptions path
+#: ../wupsales-reward-points-pro/license/mod.php:64 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:64
+#, php-format
+msgid ""
+"To activate your %1$s PRO plugin verification of your subscription is "
+"required. Go to %2$s and make sure you are logged in to your WooCommerce.com "
+"account."
+msgstr ""
+"Pour activer votre extension %1$s PRO la vérification de votre abonnement "
+"est requise. Allez sur %2$s et assurez-vous d’être conencté à votre compte "
+"WooCommerce.com."
+
+#. %s url
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:38 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:38
+#, php-format
+msgid ""
+"To activate your PRO version verification of your subscription is required. "
+"Go to %s and make sure you are logged in to your WooCommerce.com account."
+msgstr ""
+"Pour activer votre version PRO la vérification de votre abonnement est "
+"requise. Allez sur %s et assurez-vous d’être connecté à votre compte "
+"WooCommerce.com."
+
+#. %s: PRO version license url
+#: ../wupsales-reward-points-pro/license/mod.php:92 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:92
+#, php-format
+msgid "To extend PRO version license - follow %s."
+msgstr "Pour prolonger la licence de la version PRO - suivez %s."
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:284 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:311 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:284
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:311
+msgid "Top"
+msgstr "Haut"
+
+#: classes/tables/users.php:14
+msgid "Total Amount"
+msgstr "Montant total"
+
+#: modules/actions/mod.php:99 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:343
+#:  modules/actions/views/tpl/actionsTabUsers.php:236 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:343
+msgid "Total amount"
+msgstr "Montant total"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:35 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:35
+msgid "Total amount of purchases"
+msgstr "Montant total des achats"
+
+#: classes/tables/users.php:15
+msgid "Total Order Count"
+msgstr "Nombre total de commandes"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:68 
+#: ../wupsales-reward-points-pro/autoactions/mod.php:80 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:68
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:80
+msgid "Total purchases amount"
+msgstr "Montant total d’achats"
+
+#: modules/bonuses/models/details.php:8
+msgid "Transaction"
+msgstr "Transaction"
+
+#: classes/tables/transactions.php:12
+msgid "Transaction DateTime"
+msgstr "Horodatage de la transaction"
+
+#: classes/tables/details.php:8
+msgid "Transaction Id"
+msgstr "ID de transaction"
+
+#: modules/bonuses/views/bonuses.php:277
+msgid "Transactions"
+msgstr "Transactions"
+
+#: classes/tables/actions.php:17 
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:23
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:60
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:23
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:60
+msgid "Trigger"
+msgstr "Déclencheur"
+
+#: classes/tables/actions.php:9 classes/tables/modules.php:8 
+#: classes/tables/transactions.php:9
+msgid "Type"
+msgstr "Type"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:261 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:261
+msgid "under the picture"
+msgstr "sous l’image"
+
+#: classes/tables/transactions.php:15
+msgid "Unique number"
+msgstr "Numéro unique"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:117
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:117
+msgid "Units"
+msgstr "Unités"
+
+#: modules/options/views/tpl/optionsTabMain.php:215
+msgid "Update when adding new ones"
+msgstr "Mettre à jour à chaque ajout"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:21 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:21
+msgid "Upload your unique Bonus Points badge for balance widget"
+msgstr "Téléversez votre badge de points bonus unique pour le widget de solde"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:139 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:139
+msgid ""
+"Upload your unique Bonus Points icon for your product badge by inviting users"
+msgstr ""
+"Téléversez votre icône de points bonus unique pour le badge produit pour "
+"l'invitation l'utilisateurs"
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:12
+msgid "Use"
+msgstr "Utiliser"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:195 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:195
+msgid "Use abbreviation"
+msgstr "Utiliser l’abbréviation"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:11 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:11
+msgid "Use cart rewards"
+msgstr "Utiliser les récompenses panier"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:31 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/bonusesTabGroups.php:31
+msgid "Use groups"
+msgstr "Utiliser des groupes"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:22 
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:140 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:22
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:140
+msgid "Use icon"
+msgstr "Utiliser une icône"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:14 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:14
+msgid "Use levels"
+msgstr "Utiliser les niveaux"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:32
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabHistory.php:32
+msgid "User"
+msgstr "Utilisateur"
+
+#: modules/actions/mod.php:55 modules/actions/views/tpl/actionsAdmin.php:7
+msgid "User balance"
+msgstr "Solde utilisateur"
+
+#: modules/actions/controller.php:94
+msgid "User blocked"
+msgstr "Utilisateur bloqué"
+
+#: classes/tables/transactions.php:8
+msgid "User Id"
+msgstr "ID d’utilisateur"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:55 
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:60 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:55
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:60
+msgid "User is not active"
+msgstr "L’utilisateur est inactif"
+
+#: ../wupsales-reward-points-pro/bonusespro/mod.php:23 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/mod.php:23
+msgid "User Level discount"
+msgstr "Niveau de réduction de l’utilisateur"
+
+#: modules/options/mod.php:90
+msgid "User levels"
+msgstr "Niveaux utilisateurs"
+
+#: modules/actions/models/actions.php:250
+msgid "User list"
+msgstr "Liste d’utilisateurs"
+
+#: ../wupsales-reward-points-pro/optionspro/mod.php:32 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/mod.php:32
+msgid "User role"
+msgstr "Rôle utilisateur"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:294
+#:  
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:168 
+#: modules/actions/views/tpl/actionsTabUsers.php:186 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:294
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabLevels.php:168
+msgid "User roles"
+msgstr "Rôles utilisateur"
+
+#: modules/actions/controller.php:94
+msgid "User unlocked"
+msgstr "Utilisateur débloqué"
+
+#: modules/actions/controller.php:107
+msgid "User's action saved"
+msgstr "Action de l’utilisateur enregistrée"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:77 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:77
+msgid "Username"
+msgstr "Nom utilisateur"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:81 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:81
+msgid "Username for codecanyon.net"
+msgstr "Nom utilisateur codecanyon.net"
+
+#: modules/actions/mod.php:75 
+#: modules/actions/views/tpl/actionsTabHistory.php:20
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: modules/actions/controller.php:83
+msgid "Users balance recalculated"
+msgstr "Soldes utilisateurs recalculés"
+
+#: ../wupsales-reward-points-pro/autoactions/mod.php:83 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/mod.php:83
+msgid "Users who have reviewed"
+msgstr "Utilisateurs ayant laissé des avis"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:42
+msgid "Valid until"
+msgstr "Valide jusqu’au"
+
+#: modules/adminmenu/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Version"
+
+#: modules/options/views/tpl/optionsTabMain.php:50
+msgid "View"
+msgstr "Voir"
+
+#: modules/actions/models/actions.php:353
+msgid "View action"
+msgstr "Action de visualisation"
+
+#: ../wupsales-reward-points-pro/autoactions/models/autoactions.php:298 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/models/autoactions.php:298
+msgid "View company"
+msgstr "Voir la campagne"
+
+#: modules/actions/models/actions.php:13
+msgid "Wait"
+msgstr "En attente"
+
+#: modules/options/views/tpl/optionsTabMain.php:311
+msgid "When rewards are spent"
+msgstr "Lorsque les récompenses sont dépensées"
+
+#: modules/options/views/tpl/optionsTabMain.php:28
+msgid "Widget shortcode"
+msgstr "Code court du widget"
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:17 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabDesign.php:17
+msgid "Widget user balance"
+msgstr "Widget de solde utilisateur"
+
+#: modules/actions/models/actions.php:276
+msgid "without orders"
+msgstr "sans commande"
+
+#: modules/options/views/tpl/optionsTabMain.php:318
+msgid "Write off the rest"
+msgstr "Prélever le reste"
+
+#. Author of the plugin
+msgid "wupsales"
+msgstr ""
+
+#. Name of the plugin
+msgid "WupSales - Reward Points for WooCommerce"
+msgstr ""
+
+#: modules/bonuses/controller.php:96
+msgid "You are blocked"
+msgstr "Vous êtes bloqué.e"
+
+#: modules/bonuses/controller.php:101
+msgid "You are not logged in"
+msgstr "Vous n’êtes pas connecté.e"
+
+#: modules/bonuses/controller.php:98
+msgid "You are refused"
+msgstr "Vous êtes refusé.e."
+
+#. %s url
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:31 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:31
+#, php-format
+msgid ""
+"You can %s to extend your license, then - click on \"Re-activate\" button to "
+"re-activate your PRO version."
+msgstr ""
+"Vous pouvez %s pour prolonger votre license, puis cliquez sur le bouton \"Ré-"
+"activer\" pour réactiver votre version PRO."
+
+#: modules/actions/models/users.php:545
+msgid "You can change your age only once/year."
+msgstr "Vous ne pouvez changer votre âge qu’une fois par an."
+
+#: ../wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:11 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/optionspro/views/tpl/optionsTabCart.php:11
+msgid ""
+"You can create an unlimited number of cart range levels for which the user "
+"can receive the specified number of points. For example, the larger the cart "
+"amount, the greater the discount, this motivates buyers to buy"
+msgstr ""
+"Vous pouvez créer un nombre illimité de niveaux d’intervalles pour lesquels "
+"l’utilisateur peut recevoir un nombre défini de points. Par exemple, plus le "
+"montant du panier est important, plus grande est la réduction, ce qui motive "
+"les acheteurs"
+
+#: modules/bonuses/views/tpl/widgetPopup.php:89
+msgid ""
+"You have been blocked by the administrator, possibly for violating the rules "
+"of the reward program."
+msgstr ""
+"Vous avez été bloqué par l’administrateur, possiblement pour violation des "
+"règles du programme de récompense."
+
+#: modules/actions/views/actions.php:47
+msgid "You have no actions for now."
+msgstr "Vous n’avez aucune action pour le moment."
+
+#: ../wupsales-reward-points-pro/autoactions/views/autoactions.php:27 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/autoactions.php:27
+msgid "You have no companies for now."
+msgstr "Vous n’avez aucune campagne pour le moment."
+
+#: ../wupsales-reward-points-pro/analytics/views/analytics.php:24 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/analytics/views/analytics.php:24
+msgid "You have no data for now."
+msgstr "Vous n’avez aucune donnée pour le moment."
+
+#: classes/frame.php:150
+msgid "You have no permissions to view this page"
+msgstr "Vous n’avez pas la permission de voir cette page"
+
+#: modules/bonuses/views/bonuses.php:158
+msgid "You have no products for now."
+msgstr "Vous n’avez aucun produit pour le moment."
+
+#: modules/bonuses/views/tpl/widgetPopupTransactions.php:8
+msgid "You have no transactions for now."
+msgstr "Vous n’avez aucune transaction pour le moment."
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:243
+#:  
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:270
+#:  modules/actions/views/tpl/actionsTabUsers.php:135 
+#: modules/actions/views/tpl/actionsTabUsers.php:162 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:243
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:270
+msgid "You have received reward points"
+msgstr "Vous avez reçu des points de récompense"
+
+#. 1: plugin name 2: PRO version license url
+#: ../wupsales-reward-points-pro/license/mod.php:97 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:97
+#, php-format
+msgid ""
+"You need to activate your copy of PRO version %1$s plugin. Go to %2$s tab "
+"and finish your software activation process."
+msgstr ""
+"Vous devez activer votre copie de la version PRO de l’extension %1$s. Allez "
+"à l’onglet %2$s et finalisez le processus d’activation du logiciel."
+
+#: modules/bonuses/views/tpl/widgetPopup.php:92
+msgid "You refused to participate."
+msgstr "Vous avez refusé de participer."
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:60 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:60
+msgid "Your email address, used on checkout procedure on"
+msgstr "Votre e-adresse mail, utilisée lors de l’achat sur"
+
+#: ../wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:25
+#:  
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/bonusespro/views/tpl/widgetPopupAccount.php:25
+msgid "Your level"
+msgstr "Votre niveau"
+
+#. %s: plugin name
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:28 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:28
+#, php-format
+msgid "Your license for PRO version of %s plugin - expired."
+msgstr "La licence de la version PRO de l’extension %s a expiré."
+
+#. 1: license link 2: PRO link for license tab
+#: ../wupsales-reward-points-pro/license/mod.php:33 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:33
+#, php-format
+msgid ""
+"Your license is expired. Once you extend your license - you will be able to "
+"Update PRO version. To extend PRO version license - follow %1$s, then - go "
+"to %2$s tab and click on \"Re-activate\" button to re-activate your PRO "
+"version."
+msgstr ""
+"Votre licence a expiré. Une fois votre licence prolongée, vous serez capable "
+"de mettre à jour la version PRO. Pour prolonger votre licence PRO - suivez "
+"%1$s, puis allez à l’onglet %2$s et cliquez sur le bouton \"Réactiver\" pour "
+"réactiver votre version PRO."
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:107 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:107
+msgid "Your License Key from your account on"
+msgstr "Votre clé de licence selon votre compte sur"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:103 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:103
+msgid "Your License Key from your WooCommerce.com Subscriptions"
+msgstr "Votre clé de licence selon votre abonnement WooCommerce.com"
+
+#. 1: plugin name, 2: subscriptions path
+#: ../wupsales-reward-points-pro/license/mod.php:61 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:61
+#, php-format
+msgid ""
+"Your plugin %1$s PRO license is expired and we are unable to verify your "
+"subscriptions. Please go to %2$s and make sure you are logged in your "
+"WooCommerce.com account."
+msgstr ""
+"La licence de votre extension %1$s PRO est expirée et nous ne pouvons pas "
+"vérifier votre abonnement. Veuillez vous rendre sur %2$s et vous assurer que "
+"vous êtes connecté à votre compte WooCommerce.com."
+
+#. %s: plugin name
+#: ../wupsales-reward-points-pro/license/mod.php:72 
+#: ../wupsales-reward-points-pro/license/mod.php:89 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:72 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/mod.php:89
+#, php-format
+msgid ""
+"Your plugin %s PRO license is expired. It means your PRO version will work "
+"as usual - with all features and options, but you will not be able to update "
+"the PRO version and use PRO support."
+msgstr ""
+"Votre licence de l’extension PRO de %s est expirée. Cela signifie que votre "
+"version PRO fonctionnera comme avant, avec toutes les fonctions et options, "
+"mais vous ne serez plus capable de mettre à jour la version PRO ou d’accéder "
+"à l’assistance PRO."
+
+#: modules/bonuses/views/tpl/bonusesCartDiscount.php:15
+msgid "Your points balance"
+msgstr "Votre solde de points"
+
+#: ../wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:105 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/license/views/tpl/licenseAdmin.php:105
+msgid "Your Purchase code from"
+msgstr "Votre code d’achat de"
+
+#: modules/options/views/tpl/optionsTabMain.php:158
+msgid "Еmails to send per session"
+msgstr "Courriels à envoyer par session"
+
+#: modules/bonuses/models/transactions.php:29
+msgid "Сanceled"
+msgstr "Annulé"
+
+#: ../wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:26
+#:  modules/actions/views/tpl/actionsTabHistory.php:21 
+#: ../wupsales-reward-points-pro/wupsales-reward-points-pro/autoactions/views/tpl/autoactionsTabCompanies.php:26
+msgid "Сredited"
+msgstr "Crédité"

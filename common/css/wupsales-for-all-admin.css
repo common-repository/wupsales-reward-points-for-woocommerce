@@ -1,0 +1,9 @@
+.wp-pointer.wupsales-pointer {
+	z-index: 999999 !important;
+}
+.wupsales-error {
+	color: #ff0000;
+}
+.error strong {
+	font-size: 15px;
+}
